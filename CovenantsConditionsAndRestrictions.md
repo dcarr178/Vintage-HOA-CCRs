@@ -236,7 +236,7 @@ The Association shall have all the powers of a nonprofit corporation organized u
 
         (4) Except as provided in Article IV of this Declaration, relating to foreclosure for failure to pay assessments, or as a result of the judgment of a court or a decision arising out of arbitration, the Association shall in no way abridge the right of any Owner to the full use and enjoyment of his or her Lot.
 
-    (e) The Association, acting through the Board, shall have the power to delegate its authority, duties, and responsibilities to its officers, employees, committees, or agents, including a professional management agent. The term of any agreement with a manger or the Declarant for the furnishing of maintenance, repair, and related services shall not exceed one year, renewable by agreement of the parties for successive one-year periods. Such an agreement shall be terminable by either party
+    (e) The Association, acting through the Board, shall have the power to delegate its authority, duties, and responsibilities to its officers, employees, committees, or agents, including a professional management agent. The term of any agreement with a manager or the Declarant for the furnishing of maintenance, repair, and related services shall not exceed one year, renewable by agreement of the parties for successive one-year periods. Such an agreement shall be terminable by either party
 
         (1) for cause on 30 days' written notice and
 
