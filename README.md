@@ -14,4 +14,8 @@ The staging branch holds the current governing documents inclusive of the latest
 
 ### Master Branch
 
-The master branch holds the current governing documents as recorded with the State of Utah. The staging branch will be merged into the master branch every time we record new governing documents with the State of Utah. 
+The master branch holds the current governing documents as recorded with the State of Utah. The staging branch will be merged into the master branch every time we record new governing documents with the State of Utah.
+
+### Other branches
+
+Additional branches should be created for every proposed line-item change to be voted on and then merged into the staging branch when/if approved by membership vote.
