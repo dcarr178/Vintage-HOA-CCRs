@@ -4,7 +4,7 @@
 
 ##### Section 1.1 Name and Location
 
-The name of the corporation is Vintage on the River Homeowners Association, Inc., hereinafter referred to as the &quot;Association.&quot; The initial principal office of the Association shall be located at 742 W. Vintage Dr., Provo, Utah 84604, but the meetings of Members and Trustees may be held at such places in the State of Utah, as may be designated by the Board of Trustees.
+The name of the corporation is Vintage on the River Homeowners Association, Inc., hereinafter referred to as the &quot;Association.&quot; The meetings of Members and Trustees may be held at such places in the State of Utah, as may be designated by the Board of Trustees.
 
 ##### Section 1.2 Application of Bylaws
 
@@ -14,7 +14,7 @@ All present and future Owners, Mortgagees, lessees and occupants of any Lot and 
 
 ##### Section 2.1 Annual Meetings
 
-The first annual meeting of the Members shall be held within one (1) year from the date of incorporation of the Association, and each subsequent regular meeting of the Members shall be held on the second Thursday of each March, at the hour of 7:30 o'clock P.M. at the Property or some reasonable location in Utah County, Utah or on such other annual date and time fixed by the Board of Trustees. If the day for the annual meeting of the Members is a legal holiday, the meeting will be held at the same hour on the first day following which is not a legal holiday.
+The annual meeting of the Members shall be held on such date and time fixed by the Board of Trustees.
 
 ##### Section 2.2 Special Meetings
 

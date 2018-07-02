@@ -1,20 +1,20 @@
 # Covenants, Conditions, and Restrictions (CC&Rs)
 
-THIS DECLARATION is made this 30th day of January, 1995, by BTS INVESTMENTS, INC., a Utah Corporation ("Declarant").
+The original DECLARATION was made on the 30th day of January, 1995, by BTS INVESTMENTS, INC., a Utah Corporation ("Declarant"). This document, dated 7/1/2018, replaces that original document.
 
 ### RECITALS
 
 ##### A
 
-Declarant is the owner of that certain real property located in the City of Provo, County of Utah, State of Utah and more particularly described on the Subdivision Map attached hereto and filed simultaneously herewith at the Office of the Recorder of Utah County, State of Utah. Said property more particularly described on attached EXHIBIT "A"
+Declarant was the owner of that certain real property located in the City of Provo, County of Utah, State of Utah and more particularly described on the Subdivision Map attached hereto and filed simultaneously herewith at the Office of the Recorder of Utah County, State of Utah. Said property more particularly described on attached EXHIBIT "A".
 
 ##### B
 
-Pursuant to the general plan set forth in this Declaration, Declarant intends to subdivide the Property into Lots and parcels, to improve the Lots and parcels, and to create a planned development.
+Pursuant to the general plan set forth in this Declaration, Declarant did subdivide the Property into Lots and parcels, improved the Lots and parcels, and created a planned development.
 
 ##### C
 
-In furtherance of this intent, Declarant hereby declares that all of the Property is and shall continue to be held, conveyed, hypothecated, encumbered, leased, rented, used, occupied, and improved subject to the declarations, limitations, covenants, conditions, restrictions, reservations, rights, and easements set forth in this Declaration, as this Declaration may be amended from time to time, all of which are declared and agreed to be in furtherance of a general plan established for the purpose of enhancing and perfecting the value, desirability, and attractiveness of the Property. All covenants and restrictions set forth in this Declaration shall constitute covenants running with the land and enforceable equitable servitudes upon the Property, and shall be binding on and for the benefit of all the Property and all parties having or acquiring any right, title, or interest in all or any part of the Property, including the heirs, executors, administrators, and assigns of these parties and all subsequent owners and lessees of all or any part of any Lot in the Development.
+It is declared that all of the Property is and shall continue to be held, conveyed, hypothecated, encumbered, leased, rented, used, occupied, and improved subject to the declarations, limitations, covenants, conditions, restrictions, reservations, rights, and easements set forth in this Declaration, as this Declaration may be amended from time to time, all of which are declared and agreed to be in furtherance of a general plan established for the purpose of enhancing and perfecting the value, desirability, and attractiveness of the Property. All covenants and restrictions set forth in this Declaration shall constitute covenants running with the land and enforceable equitable servitudes upon the Property, and shall be binding on and for the benefit of all the Property and all parties having or acquiring any right, title, or interest in all or any part of the Property, including the heirs, executors, administrators, and assigns of these parties and all subsequent owners and lessees of all or any part of any Lot in the Development.
 
 ### ARTICLE I DEFINITIONS
 
@@ -68,11 +68,11 @@ In furtherance of this intent, Declarant hereby declares that all of the Propert
 
 ##### Section 1.13
 
-"Mortgage" means a mortgage or deed of trust encumbering a Lot or any other portion of the Development. "First Mortgage" means a mortgage that has priority over all other mortgages encumbering the same Lot or other portion of the Development.
+"Mortgage" means a mortgage or deed of trust encumbering a Lot. "First Mortgage" means a mortgage that has priority over all other mortgages encumbering the same Lot. 
 
 ##### Section 1.14
 
-"Mortgagee" means a Person to whom a Mortgage is made and includes the beneficiary of a deed of trust and any guarantor or insurer of a mortgage. "Institutional Mortgagee" means a mortgagee that is a financial intermediary or depository, such as a bank, savings and loan, or mortgage company, that is chartered under federal or state law and that lends money on the security of real property or invests in such loans, or any insurance company or governmental agency or instrumentality, including the Federal National Mortgage Association (FNMA), the Federal Home Loan Mortgage Corporation (FI1LMC), and the Government National Mortgage Association (GNMA). "First Mortgagee" means a Mortgagee that has priority over all other mortgages or holders of mortgages encumbering the same Lot or other portion of the Development. The term "Beneficiary" shall be synonymous with the term "Mortgagee."
+"Mortgagee" means a Person to whom a Mortgage is made and includes the beneficiary of a deed of trust and any guarantor or insurer of a mortgage. "Institutional Mortgagee" means a mortgagee that is a financial intermediary or depository, such as a bank, savings and loan, or mortgage company, that is chartered under federal or state law and that lends money on the security of real property or invests in such loans, or any insurance company or governmental agency or instrumentality, including the Federal National Mortgage Association (FNMA), the Federal Home Loan Mortgage Corporation (FI1LMC), and the Government National Mortgage Association (GNMA). "First Mortgagee" means a Mortgagee that has priority over all other mortgages or holders of mortgages encumbering the same Lot. The term "Beneficiary" shall be synonymous with the term "Mortgagee."
 
 ##### Section 1.15
 
@@ -80,7 +80,7 @@ In furtherance of this intent, Declarant hereby declares that all of the Propert
 
 ##### Section 1.16
 
-"Owner" means the record holder or holders of record fee title to a Lot, including Declarant, and any contract sellers under recorded contracts of sale. "Owner" shall not include any persons or entities who hold an interest in a Lot merely as security for performance of an obligation.
+"Owner" means the record holder or holders of record fee title to a Lot, and any contract sellers under recorded contracts of sale. "Owner" shall not include any persons or entities who hold an interest in a Lot merely as security for performance of an obligation.
 
 ##### Section 1.17
 
@@ -104,15 +104,7 @@ In furtherance of this intent, Declarant hereby declares that all of the Propert
 
 All the Property in the Development shall be subject to this Declaration.
 
-##### Section 2.02 Annexation of Additional Property
-
-Additional property may be annexed to the Development, but only as provided in Article XI of this Declaration.
-
-##### Section 2.03 Title to Common Areas
-
-Prior to the final closing of the first sale of a Lot in the Development, Declarant or its successors or assigns shall convey to the Association title and control of the Common Area, free of all liens except current real property taxes and any reservations, easements, covenants, encumbrances, conditions, and restrictions of record, a copy of which is attached hereto as Exhibit "B," including those contained in this Declaration.
-
-##### Section 2.04 Use and Enjoyment of Common Area
+##### Section 2.02 Use and Enjoyment of Common Area
 
 The following provisions govern the use and enjoyment of the Common Area:
 
@@ -134,21 +126,17 @@ The following provisions govern the use and enjoyment of the Common Area:
 
          (7) The right of each Owner to the exclusive use of any Exclusive Use Common Area appurtenant to the Owner's Lot.
 
-         (8) The rights of Declarant as described in this Declaration.
+         (8) The right of the Association to reasonably restrict access to roofs, maintenance facilities or areas, landscaped areas, and similar areas of the Development.
 
-         (9) The right of the Association to reasonably restrict access to roofs, maintenance facilities or areas, landscaped areas, and similar areas of the Development.
+         (9) The right of the Architectural Control Committee to approve any proposed alteration or modification to the Common Area or any Lot.
 
-         (10) The right of the Architectural Control Committee to approve any proposed alteration or modification to the Common Area or any Lot.
+    (c) The Association may grant to third parties easements in, on, and over the Common Area for the purpose of constructing, installing, or maintaining necessary utilities and services, and each Owner, in accepting his or her deed to the Lot, expressly consents to these easements. However, no such easement can be granted if it would interfere with any exclusive easement, or with any Owner's use, occupancy, or enjoyment of his or her Lot.
 
-    (c) Declarant hereby reserves easements for common driveway purposes, for drainage and encroachment purposes, and for ingress to and egress from the Common Area. These easements may be used to complete improvements on the Common Areas and to perform necessary repair work, and for entry onto adjacent property in connection with the development of additional phases of the overall Development.
+    (d) An Owner who has sold his or her Lot to a contract purchaser or who has leased or rented the Lot shall be entitled to delegate his or her rights to use and enjoy the Common Area to any contract purchaser, tenant, or subtenant who resides in the Owner's Lot, subject to reasonable regulation by the Board. If the Owner makes such a delegation of rights, the Owner and the Owner's family, guests, employees, and invitees shall not be entitled to use and enjoy the Common Area for so long as the delegation remains effective.
 
-    (d) The Association may grant to third parties easements in, on, and over the Common Area for the purpose of constructing, installing, or maintaining necessary utilities and services, and each Owner, in accepting his or her deed to the Lot, expressly consents to these easements. However, no such easement can be granted if it would interfere with any exclusive easement, or with any Owner's use, occupancy, or enjoyment of his or her Lot.
+    (e) Each Owner shall be liable to the Association for any damage to the Common Area or to Association-owned property, to the extent that the damage is not covered by insurance, if the damage is sustained because of the negligence, wilful misconduct, unauthorized or improper installment or maintenance of any improvement by the Owner of the Owner's family guests, tenants, contract purchasers, tenants, or invitees. In the case of joint ownership of a Lot, the liability of the co-owners shall be joint and several, unless the co-owners and the Association have agreed in writing to an alternative allocation of liability.
 
-    (e) A Class A Owner who has sold his or her Lot to a contract purchaser or who has leased or rented the Lot shall be entitled to delegate his or her rights to use and enjoy the Common Area to any contract purchaser, tenant, or subtenant who resides in the Owner's Lot, subject to reasonable regulation by the Board. If the Owner makes such a delegation of rights, the Owner and the Owner's family, guests, employees, and invitees shall not be entitled to use and enjoy the Common Area for so long as the delegation remains effective.
-
-    (f) Each Owner shall be liable to the Association for any damage to the Common Area or to Association-owned property, to the extent that the damage is not covered by insurance, if the damage is sustained because of the negligence, wilful misconduct, unauthorized or improper installment or maintenance of any improvement by the Owner of the Owner's family guests, tenants, contract purchasers, tenants, or invitees. In the case of joint ownership of a Lot, the liability of the co-owners shall be joint and several, unless the co-owners and the Association have agreed in writing to an alternative allocation of liability.
-
-##### Section 2.05 Maintenance by Owners
+##### Section 2.03 Maintenance by Owners
 
 Each Owner shall maintain his or her Lot and the improvements located on it in a clean, sanitary, and attractive condition. This duty to maintain includes a responsibility to repair any damage to the improvements located on the Owner's Lot occasioned by the presence of wood-destroying pests or organisms, provided that a majority of the Owners do not vote to have the Association:
 
@@ -158,11 +146,11 @@ Each Owner shall maintain his or her Lot and the improvements located on it in a
 
 In addition, each owner shall maintain those portions of any heating and cooling equipment and all plumbing, electrical, and gas lines, apparatus, and other equipment that are located within or that exclusively serve his or her Lot. This maintenance shall be at the Owner's expense. However, the Owner shall not take any actions that would impair or otherwise alter the structural integrity or mechanical systems or lessen the support of any structural member, without the prior written approval of the Architectural Control Committee, as provided in Article VI of this Declaration.
 
-##### Section 2.06 Easements for Maintenance of Encroachments
+##### Section 2.04 Easements for Maintenance of Encroachments
 
 None of the rights and obligations of the Owners described in this Declaration or created by deed shall be altered in any way by encroachments due to settlement or shifting of structures or any other cause. There shall be valid easements for the maintenance of such encroachments so long as the encroachments exist. However, in no event shall a valid easement for encroachment be created in favor of an Owner or Owners if the encroachment occurred due to the wilful conduct of the Owner or Owners.
 
-##### Section 2.07 Prohibition Against Severance of Elements of Lot
+##### Section 2.05 Prohibition Against Severance of Elements of Lot
 
 Any conveyance, judicial sale, or other voluntary or involuntary transfer of the Owner's entire estate shall include the Owner's Membership interest in the Association, as provided in Section 2.02 of this declaration. Any transfer that attempts to sever those component interests shall be void.
 
@@ -170,25 +158,13 @@ Any conveyance, judicial sale, or other voluntary or involuntary transfer of the
 
 ##### Section 3.01 Organization of the Association
 
-The Association is or shall be incorporated under the name of VINTAGE ON THE RIVER HOMEOWNER'S ASSOCIATION, INC., as a nonprofit corporation organized under the Utah Nonprofit Corporation and Co-operative Association Act. From the closing of the escrow for the first sale of a Lot, the Association shall be charged with the duties and invested with the powers prescribed by law and set forth in this Declaration, the Articles of Incorporation, and the Bylaws.
+The Association is or shall be incorporated under the name of VINTAGE ON THE RIVER HOMEOWNER'S ASSOCIATION, INC., as a nonprofit corporation organized under the Utah Nonprofit Corporation and Co-operative Association Act.
 
 ##### Section 3.02 Membership
 
 Every owner, upon becoming an Owner, shall automatically become a Member of the Association. Ownership of a Lot is the sole qualification for membership. Each Member shall have the rights, duties, privileges, and obligations set forth in the Governing Instruments. Membership shall automatically cease when the Owner no longer holds an ownership interest in a Lot. All memberships shall be appurtenant to the Lot conveyed, and cannot be transferred, assigned, conveyed, hypothecated, pledged, or alienated except as part of a transfer of the Owner's entire ownership interest, and then only to the transferee. Any transfer of the Owner's title to his or her Lot shall automatically transfer the appurtenant membership to the transferee.
 
-##### Section 3.03 Classes of Membership
-
-The Association shall have two classes of voting membership, as follows:
-
-    (a) All Owners, other than the Declarant, shall be Class A members. Class A membership entitles the holder to one vote for each Lot owned. When a Lot is owned by more than one person, only one vote may be cast for the Lot, as provided in Section 3.04(b) of this Declaration.
-
-    (b) The Declarant shall be the sole Class B member. The Class B member shall be entitled to three votes for each Lot owned. Class B membership shall cease and be converted to Class A membership upon the occurrence of whichever of the following is first in time:
-
-        (1) The total outstanding votes of the Class A Owners equals or exceeds the total outstanding votes of the Class B member; or
-
-        (2) On January 1, 1997.
-
-##### Section 3.04 Voting Rights
+##### Section 3.03 Voting Rights
 
 All voting rights of the Owners shall be subject to the following restrictions, limitations, and requirements:
 
@@ -196,17 +172,15 @@ All voting rights of the Owners shall be subject to the following restrictions, 
 
     (b) Fractional votes shall not be allowed. When there is more than one record Owner of a Lot ("co-owners"), all of the co-owners shall be Members, but only one of them shall be entitled to cast the single vote attributable to the Lot. Co-owners should designate in writing one of their number to vote. If no such designation is made or if it is revoked, the co-owners shall decide among themselves, by majority vote, how that Lot's vote is cast. Unless the Board receives a written objection in advance from a co-owner, it shall be conclusively presumed that the voting co-owner is acting with the consent of his or her co-owners. No vote shall be cast for the Lot on a particular matter if a majority of the co-owners present in person or by proxy cannot agree on a vote.
 
-    (c) Except as provided in Section 3.06(a) and/or 3.07(c) of this Declaration, governing the enforcement of certain bonded obligations and any relevant sections of the Bylaws, governing the removal of directors, as long as two classes of voting memberships exist, any provision of this Declaration, the Articles, or the Bylaws that requires the approval of a specified percentage of the voting power of the Association (rather than simply requiring the vote or written consent of a majority of a quorum) shall require the approval of the specified percentage of the voting power of each class of membership. Except as provided in Section 3.06(a) and/or 3.07(c) of this Declaration and any relevant sections of the Bylaws, when the Class B membership has terminated, any provision of this Declaration, the Articles, or the bylaws that requires the approval of a specified percentage of the voting power of the Association shall require the vote on written consent of Owners representing the specified percentage of both the total voting power of the Association and the voting power of the Association residing in Owners other than Declarant.
+    (c) The Board shall fix, in advance, a record date or dates for the purpose of determining the Owners entitled to notice of and to vote at any meeting of members. the record date for notice of a meeting shall not be more than 90 days nor less than 10 days before the date of the meeting. The Record date for voting shall not be more than 60 days before the date of the meeting or before the date on which the first written ballot is mailed or solicited. The Board may also fix, in advance, a record date for the purpose of determining the Owners entitled to exercise any rights in connection with any other action. Any such date shall not be more than 60 days prior to the action.
 
-    (d) The Board shall fix, in advance, a record date or dates for the purpose of determining the Owners entitled to notice of and to vote at any meeting of members. the record date for notice of a meeting shall not be more than 90 days nor less than 10 days before the date of the meeting. The Record date for voting shall not be more than 60 days before the date of the meeting or before the date on which the first written ballot is mailed or solicited. The Board may also fix, in advance, a record date for the purpose of determining the Owners entitled to exercise any rights in connection with any other action. Any such date shall not be more than 60 days prior to the action.
+    (d) Every Owner entitled to vote at any election of the Directors may cumulate the Owner's votes and give one candidate a number of votes equal to the number of Directors to be elected multiplied by the number of votes to which the Owner is entitled, or distribute the Owner's votes on the same principle among as many candidates as the Owner thinks fit. No Owner shall be entitled to cumulate votes for a candidate or candidates unless the candidate's name or candidates' names have been placed in nomination prior to voting and an Owner has given notice at the meeting prior to the voting of the Owner's intention to cumulate votes. If any one Owner has given this notice, all Owners may cumulate their votes for candidates in nomination.
 
-    (e) Every Owner entitled to vote at any election of the Directors may cumulate the Owner's votes and give one candidate a number of votes equal to the number of Directors to be elected multiplied by the number of votes to which the Owner is entitled, or distribute the Owner's votes on the same principle among as many candidates as the Owner thinks fit. No Owner shall be entitled to cumulate votes for a candidate or candidates unless the candidate's name or candidates' names have been placed in nomination prior to voting and an Owner has given notice at the meeting prior to the voting of the Owner's intention to cumulate votes. If any one Owner has given this notice, all Owners may cumulate their votes for candidates in nomination.
-
-##### Section 3.05 Membership Meetings
+##### Section 3.04 Membership Meetings
 
 Article II of the Bylaws governing meetings of the Members is hereby incorporated by reference.
 
-##### Section 3.06 General Powers and Authority
+##### Section 3.05 General Powers and Authority
 
 The Association shall have all the powers of a nonprofit corporation organized under the Utah Nonprofit Corporation and Co-operative Association Act, subject to any limitations set forth in this Declaration or in the Articles and Bylaws of the Association. It may perform all acts that may be necessary for or incidental to the performance of the obligations and duties imposed upon it by this Declaration or the other Governing Instruments. Its powers shall include, but are not limited to, the following:
 
@@ -236,7 +210,7 @@ The Association shall have all the powers of a nonprofit corporation organized u
 
         (4) Except as provided in Article IV of this Declaration, relating to foreclosure for failure to pay assessments, or as a result of the judgment of a court or a decision arising out of arbitration, the Association shall in no way abridge the right of any Owner to the full use and enjoyment of his or her Lot.
 
-    (e) The Association, acting through the Board, shall have the power to delegate its authority, duties, and responsibilities to its officers, employees, committees, or agents, including a professional management agent. The term of any agreement with a manager or the Declarant for the furnishing of maintenance, repair, and related services shall not exceed one year, renewable by agreement of the parties for successive one-year periods. Such an agreement shall be terminable by either party
+    (e) The Association, acting through the Board, shall have the power to delegate its authority, duties, and responsibilities to its officers, employees, committees, or agents, including a professional management agent. The term of any agreement with a manager for the furnishing of maintenance, repair, and related services shall not exceed one year, renewable by agreement of the parties for successive one-year periods. Such an agreement shall be terminable by either party
 
         (1) for cause on 30 days' written notice and
 
@@ -244,7 +218,7 @@ The Association shall have all the powers of a nonprofit corporation organized u
 
     (f) The Association's agents or employees shall have the right to enter any Lot when necessary in connection with the maintenance, landscaping, or construction work for which the Association is responsible. This entry shall be made only upon notice to the Owner (except in the case of an emergency) and with as little inconvenience to the Owner as is practicable, and the Association shall repair any resulting damage at its own expense.
 
-##### Section 3.07 Duties of the Association
+##### Section 3.06 Duties of the Association
 
 In addition to the duties delegated to the Association or its agents and employees elsewhere in the Governing Instruments, the Association shall be responsible for the following:
 
@@ -296,23 +270,21 @@ In addition to the duties delegated to the Association or its agents and employe
 
         The Association may charge the Owner a reasonable fee to cover its cost to prepare and reproduce those requested items.
 
-    (h) OMITTED IN ORIGINAL DOCUMENT
+    (h) The Association shall pay all real and personal property taxes and assessments levied against it, its personal property, and the Common Area.
 
-    (i) The Association shall pay all real and personal property taxes and assessments levied against it, its personal property, and the Common Area.
+    (i) The Association shall enter into an agreement with Provo City Corporation to provide garbage removal services to the Property.
 
-    (j) The Association shall enter into an agreement with Provo City Corporation to provide garbage removal services to the Property.
-
-    (k) The Association shall be responsible to employ or contract with personnel to remove all snow from the private streets located in the Property.
+    (j) The Association shall be responsible to employ or contract with personnel to remove all snow from the private streets located in the Property.
 
         (l) In the event the Association determines to dedicate the private streets within the Property to Provo City Corporation, then the Association shall be responsible to improve all private streets according to width standards and other standards as required by Provo City Corporation.
 
-    (m) The Association shall be responsible to erect and maintain above-ground signs every fifty (50) feet on, at least, one side of the street which state: "NO PARKING - FIRE LANE - TOW AWAY ZONE."
+    (k) The Association shall be responsible to erect and maintain above-ground signs every fifty (50) feet on, at least, one side of the street which state: "NO PARKING - FIRE LANE - TOW AWAY ZONE."
 
-##### Section 3.08 Board of Directors
+##### Section 3.07 Board of Directors
 
 The affairs of the Association shall be managed and its duties and obligations performed by an elected Board of Directors, as provided in Article III of the Bylaws, which is hereby incorporated by reference.
 
-##### Section 3.09 Inspection of Books and Records
+##### Section 3.08 Inspection of Books and Records
 
 Article XI of the Declaration, governing the duty of the Association to maintain certain books and records and the rights of Owners and Directors to obtain and inspect those books and records, is hereby incorporated by reference.
 
@@ -320,25 +292,21 @@ Article XI of the Declaration, governing the duty of the Association to maintain
 
 ##### Section 4.01 Covenant to Pay 
 
-Each Owner (excluding Declarant) by acceptance of the deed to the Owner's Lot is deemed to covenant and agree, to pay to the Association the regular and special assessments levied pursuant to the provisions of this Declaration. A regular or special assessment and any late charges, reasonable costs of collection, and interest, as assessed in accordance with the provisions of this Article, shall be a debt of the Owner of the Lot at the time assessment or other sums are levied. The Owner may not waive or otherwise escape liability for these assessments by nonuse of the Common Area or abandonment of the Owner's Lot.
+Each Owner, by acceptance of the deed to the Owner's Lot, is deemed to covenant and agree to pay to the Association the regular and special assessments levied pursuant to the provisions of this Declaration. A regular or special assessment and any late charges, reasonable costs of collection, and interest, as assessed in accordance with the provisions of this Article, shall be a debt of the Owner of the Lot at the time assessment or other sums are levied. The Owner may not waive or otherwise escape liability for these assessments by nonuse of the Common Area or abandonment of the Owner's Lot.
 
-##### Section 4.02 Exemptions from Assessments
-
-There shall be no regular or special assessments levied against any Lot owned by Declarant.
-
-##### Section 4.03 Purpose of Assessments
+##### Section 4.02 Purpose of Assessments
 
 The assessments levied by the Association shall be used exclusively to promote the recreation, health, safety, and welfare of the Owners, for the operation, replacement, improvement, and maintenance of the Property, and to discharge any other obligation so the Association under this Declaration. All assessment payments shall be put into a maintenance fund to be used for the foregoing purposes.
 
-##### Section 4.04 Regular Assessments
+##### Section 4.03 Regular Assessments
 
 Within 60 days prior to the beginning of each calendar year, the Board shall estimate the net charges to be paid during that year, including a reasonable provision for contingencies and replacements, with adjustments made for any expected income and surplus from the prior year's fund. The estimated cash requirement shall be assessed to each Owner according to the ratio of the number of Lots owned by the Owner assessed to the total number of Lots in the Development subject to assessment. Regular assessments for fractions of any month shall be prorated. Each Owner is obligated to pay assessments to the Board in equal monthly installments on or before the first day of each month unless the Board adopts an alternative method for payment.
 
-##### Section 4.05 Special Assessments
+##### Section 4.04 Special Assessments
 
 If the Board determines that the amount to be collected from regular assessments will be inadequate to defray the common expenses for the year due to the cost of any construction, unexpected repairs or replacements of capital improvements upon the Common Area, or any other reason, it shall make a special assessment for the additional amount needed.
 
-##### Section 4.06 Limitations on Assessments
+##### Section 4.05 Limitations on Assessments
 
 Except in emergency situations, the Board may not, without the approval of Owners constituting a majority of the Owners of the Association and casting a majority of the votes at a meeting or election of the Association, impose a regular annual assessment per Lot that is more than 20 percent greater than the regular annual assessment for the preceding year, or levy special assessments that in the aggregate exceed 5 percent of the budgeted gross expenses of the Association for that year. These limitations shall not apply to assessment increases that are necessary for emergency situations. An emergency situation is an extraordinary expense that is:
 
@@ -350,11 +318,7 @@ Except in emergency situations, the Board may not, without the approval of Owner
 
 Before the Board may impose or collect an assessment in an emergency situation, it shall pass a resolution containing written findings as to the necessity of the extraordinary expense and why the expense was not or could not have been reasonably foreseen in the budgeting process, and shall distribute the resolution to the Owners with the notice of assessment.
 
-##### Section 4.07 Commencement of Assessments
-
-Regular assessments shall commence on all Lots in the Development on the first day of the month following the first conveyance of a Lot in the Development.
-
-##### Section 4.08 Late Charges
+##### Section 4.06 Late Charges
 
 Late charges may be levied by the Association against an Owner for the delinquent payment of regular or special assessments. If an assessment is delinquent, the Association may recover all of the following from the owner:
 
@@ -368,7 +332,7 @@ No late charge may be imposed more than once for the delinquency of the same pay
 
 No late charge may be imposed more than once for the delinquency of the same payment. However, the imposition of a late charge on any delinquent payment shall not eliminate or supersede charges imposed on prior delinquent payments.
 
-##### Section 4.09 Enforcement of Assessments and Late Charges
+##### Section 4.07 Enforcement of Assessments and Late Charges
 
 A delinquent regular or special assessment and any related late charges, reasonable costs of collection, and interest assessed in accordance with Section 4.08 of this Declaration, shall become a lien upon the Lot when a notice of delinquent assessment is duly recorded with the Utah County Recorder.
 
@@ -376,7 +340,7 @@ Any such lien may be enforced in any manner permitted by law, including judicial
 
 If the sums specified in the notice of delinquent assessment are paid before the completion of any judicial or nonjudicial foreclosure, the Association shall record a notice of satisfaction and release of the lien. Upon receipt of a written request by Owner, the Association shall also record a notice of rescission of any declaration of default and demand for sale.
 
-##### Section 4.10 Statement of Delinquent Assessment
+##### Section 4.8 Statement of Delinquent Assessment
 
 The Association shall provide any Owner, upon written request, with a statement specifying the amounts of any delinquent assessments and related late charges, interest, and costs levied against the Owner's Lot, as provided in Section 4.08 of this Declaration.
 
@@ -402,7 +366,7 @@ In exercising the right to occupy or use a Lot or the Common Area and its improv
 
     (e) Store gasoline, kerosene, cleaning solvents, or other flammable liquids in the Common Area or on any Lot; provided, however, that reasonable amounts of these liquids may be placed in metal containers and stored in the storage spaces.
 
-    (f) Conduct oil drilling, oil development operations, oil refining, quarrying, or mining operations of any kind, nor permit oil wells, tanks, tunnels, or mineral excavations or shafts upon the surface of any lot. No derrick or other structure designed for boring for water, oil, or natural gas shall be erected, maintained or permitted upon any lot except by Declarant, its successors or assigns for the benefit of the Association.
+    (f) Conduct oil drilling, oil development operations, oil refining, quarrying, or mining operations of any kind, nor permit oil wells, tanks, tunnels, or mineral excavations or shafts upon the surface of any lot. No derrick or other structure designed for boring for water, oil, or natural gas shall be erected, maintained or permitted upon any lot.
 
     (g) Display any sign to the public view on or from any Lot or the Common Area without the prior written consent of the Board, except a sign (approved by the Board) advertising the property for sale, lease, or exchange.
 
@@ -428,9 +392,7 @@ In exercising the right to occupy or use a Lot or the Common Area and its improv
 
     (r) Allow any erosion from all slopes or terraces on any lot so as to prevent any erosion thereof upon adjacent streets or adjoining property.
 
-    (s) Permit any ingress or egress to the tract described herein for use of any person or vehicle except through designated gateways. However, Declarant, its successors or assigns, reserves the right to maintain and use or convey the right to use established easements and rights-of-way.
-
-    (t) Permit the use of sports and/or tennis courts after the hour of 10:00 o'clock p.m., permit obnoxious, offensive or loud noise thereon or permit dwelling, sport and/or tennis court lighting to interfere with the quiet enjoyment of other Owners.
+    (s) Permit the use of sports and/or tennis courts after the hour of 10:00 o'clock p.m., permit obnoxious, offensive or loud noise thereon or permit dwelling, sport and/or tennis court lighting to interfere with the quiet enjoyment of other Owners.
 
 ##### Section 5.02 Required Trees, Mailbox Enclosures and Street Light Fixtures
 
@@ -440,15 +402,11 @@ Each Lot upon which a residential dwelling is constructed shall have planted the
 
 Each Owner shall be liable to the Association for all damage to the Common Area or other Association property that is sustained by reason of the negligence or wilful misconduct of that Owner or his or her family, guests, employees, tenants, and invitees to the extent that the damage is not covered by the casualty insurance obtained and maintained by the Association pursuant to Section 7.01 of this Declaration. Each Owner, by accepting his or her deed, agrees to provide insurance-to the extent required by Section 7.05 of this Declaration.
 
-##### Section 5.04 Exemption
-
-Declarant shall be exempt from the restrictions of Section 5.01 to the extent necessary to complete any construction work, sales activities, or additions to or affecting the Development. This exemption includes, but is not limited to, maintaining Lots as model homes, placing advertising signs on Development property, and generally using Lots and the Common Area to carry on construction activity.
-
-##### Section 5.05 Equitable Servitudes
+##### Section 5.04 Equitable Servitudes
 
 The Covenants and Restrictions set forth in this Declaration shall be enforceable equitable servitudes and shall inure to the benefit of and bind all Owners. These servitudes may be enforced by any Owner or the City of Provo, Utah.
 
-##### Section 5.06 Fencing and Safety Fencing
+##### Section 5.05 Fencing and Safety Fencing
 
 Each Lot upon which a residential dwelling is constructed shall have erected thereon at the Owner's sole expense a fence, to be approved by the Architectural Control Committee, which shall restrict children from accessing swimming pools, open ponds and the Provo River, regardless of whether such swimming pools, ponds or the Provo River are located within the Development. This provision shall not apply to the Provo Bench Canal and Irrigation Company canal and the West Union Canal Company canal located within the Development. Owner's whose Lots contain easements for the canal companies listed above must comply with all common law and statutory easement requirements' of the State of Utah, including but not limited to emergency and cleaning access (possibly ten feet on each side of the easement) by the canal companies. All fencing, whether safety fencing or otherwise, shall be constructed of wrought iron, brick, or a combination thereof. No fence shall be located nearer to the front lot line than:
 
@@ -456,39 +414,39 @@ Each Lot upon which a residential dwelling is constructed shall have erected the
 
     (b) 30 feet for dwellings which are set back 60 feet from the back of the curb. The City of Provo is hereby held harmless for any liability resulting from damage or injuries sustained by person's or property as a result of such drainage.
 
-##### Section 5.07 Stoves and Fireplaces
+##### Section 5.06 Stoves and Fireplaces
 
 All wood and/or coal burning stoves installed in a residential dwelling shall meet or exceed pollution control standards established by the United States Environmental Protection Agency.
 
-##### Section 5.08 Toilets
+##### Section 5.07 Toilets
 
 All toilets installed in a residential dwelling shall be of the "low-flow" type.
 
-##### Section 5.09 Irrigation Systems
+##### Section 5.08 Irrigation Systems
 
 All landscape irrigation systems installed on a Lot shall contain automatic time-control devices.
 
-##### Section 5.10 Wetlands
+##### Section 5.09 Wetlands
 
 No residential dwelling, garage, or other structure shall be constructed or otherwise situated upon an area within the Development which has been declared to be "Wetlands" by the United States Army Corps of Engineers. Each Owner shall be required to maintain and preserve in its natural state any portion of his Lot which has been so declared to be "Wetlands."
 
-##### Section 5.11 Off-Street Parking
+##### Section 5.10 Off-Street Parking
 
 Each Lot shall contain adequate parking space for two (2) standard size vehicles to be utilized by the guests and/or invitees of an Owner.
 
-##### Section 5.12 Compliance with Provisions of Geotechnical Study
+##### Section 5.11 Compliance with Provisions of Geotechnical Study
 
 All residential dwellings, garages or other structures to be constructed in the Development shall be constructed in compliance with the recommendations set forth in the Geotechnical Study prepared by Earthtec Testing and Engineering, a copy of which is attached hereto as Exhibit "C" and incorporated therein by this reference.
 
-##### Section 5.13 Time Limit for Construction of Residential Dwelling
+##### Section 5.12 Time Limit for Construction of Residential Dwelling
 
 All residential dwellings shall be fully constructed within 18 months of the issuance by the City of Provo, Utah, of a building permit therefore.
 
-##### Section 5.14 Removal of Dead Trees and Debris
+##### Section 5.13 Removal of Dead Trees and Debris
 
 All dead trees and debris must be removed from a Lot, at the Owner's sole expense, prior to the issuance by the City of Provo, Utah, of a Certificate of Occupancy for a residential dwelling constructed on a Lot.
 
-##### Section 5.15 Maintenance of Lots
+##### Section 5.14 Maintenance of Lots
 
 All Lots (while vacant and after building construction is completed) shall be maintained in such a manner as to keep cleared or reasonably cut any type of vegetation which could become a fire hazard or becomes unsightly.
 
@@ -550,13 +508,11 @@ No building, addition, wall, fence, alteration, or landscaping shall be begun, c
 
 The Architectural Control Committee shall consist of 3 members, formed as follows:
 
-    (a) The Declarant shall appoint all of the original members and all replacements until November 1, 1997, or until 90% of all Lots have been sold, whichever occurs first. Thereafter, the Board shall have the right to appoint all of the members of the Committee.
+    (a) The Board shall have the right to appoint all of the members of the Committee.
 
-    (b) Members appointed to the Committee by the Board shall be Members of the Association. Members appointed to the Committee by the Declarant need not be Members of the Association.
+    (b) All members of the Committee shall serve at the will of the party that appointed them, and may be removed by that party at any time with or without cause.
 
-    (c) The term of the initial appointees shall be one year. Thereafter, members shall serve two-year terms unless it becomes necessary to remove members appointed by Declarant in order to comply with Section 6.03(a), in which case the terms of all members shall end at that time, and the Board shall appoint a new Committee. Notwithstanding the foregoing, all members of the Committee shall serve at the will of the party that appointed them, and may be removed by that party at any time with or without cause.
-
-    (d) The Committee shall meet as often as it deems necessary to carry out the obligations imposed upon it properly, unless otherwise directed by the Board.
+    (c) The Committee shall meet as often as it deems necessary to carry out the obligations imposed upon it properly, unless otherwise directed by the Board.
 
 ##### Section 6.04 The Board of Directors
 
@@ -570,7 +526,7 @@ The Association shall obtain and maintain a policy or policies of fire and casua
 
 ##### Section 7.02 Blanket Public Liability Insurance
 
-The Association shall obtain and maintain a policy or policies insuring the Association, Declarant, manager, Owners, and the Owners' relatives, invitees, guests, employees, and their agents against any liability for bodily injury, death, and property damage arising from the activities of the Association and its Members, with respect to the Common Area. Limits of liability under the insurance shall not be less than $2,000,000 covering all claims for death, personal injury, and property damage arising out of a single occurrence. The limits and coverage shall be reviewed at least annually by the Board and increased in its discretion.
+The Association shall obtain and maintain a policy or policies insuring the Association, manager, Owners, and the Owners' relatives, invitees, guests, employees, and their agents against any liability for bodily injury, death, and property damage arising from the activities of the Association and its Members, with respect to the Common Area. Limits of liability under the insurance shall not be less than $2,000,000 covering all claims for death, personal injury, and property damage arising out of a single occurrence. The limits and coverage shall be reviewed at least annually by the Board and increased in its discretion.
 
 ##### Section 7.03 Other Association Insurance
 
@@ -582,7 +538,7 @@ The Association, acting through its Board, is hereby appointed and shall be deem
 
 ##### Section 7.05 Individual Insurance
 
-Each Owner shall provide fire and casualty insurance for the improvements on his or her Lot. An Owner may separately insure his or her personal property, and may obtain and maintain personal liability and property damage liability insurance for his or her Lot, provided that the insurance contains a waiver of subrogation rights by the carrier as to the other Owners, the Association, Declarant, and the institutional First Mortgagees of the Owner's Lot.
+Each Owner shall provide fire and casualty insurance for the improvements on his or her Lot. An Owner may separately insure his or her personal property, and may obtain and maintain personal liability and property damage liability insurance for his or her Lot, provided that the insurance contains a waiver of subrogation rights by the carrier as to the other Owners, the Association, and the institutional First Mortgagees of the Owner's Lot.
 
 ##### Section 7.06 Insurance Premiums
 
@@ -600,11 +556,11 @@ If any of the improvements in the Common Area arc destroyed or damaged, the Asso
 
 ##### Section 8.03 Proceeds Justifying Automatic Restoration and Repair
 
-If the proceeds of any insurance maintained pursuant to Article VII of this Declaration for reconstruction or repair of the Property arc equal to at least 85 percent of the estimated cost of restoration and repair, the Board shall use the insurance proceeds for that purpose, shall levy a special assessment to provide the necessary additional funds, and shall have the improvements promptly rebuilt, unless the Owners, by the vote or written consent of not less than 75 percent of the total voting power of each class of Owners, object to the restoration or repair work within 60 days of the damage or destruction.
+If the proceeds of any insurance maintained pursuant to Article VII of this Declaration for reconstruction or repair of the Property arc equal to at least 85 percent of the estimated cost of restoration and repair, the Board shall use the insurance proceeds for that purpose, shall levy a special assessment to provide the necessary additional funds, and shall have the improvements promptly rebuilt, unless the Owners, by the vote or written consent of not less than 75 percent of the total voting power of Owners, object to the restoration or repair work within 60 days of the damage or destruction.
 
 ##### Section 8.04 Approval by Owners of Special Assessments for Certain Restorations and Repairs
 
-If the proceeds of any insurance maintained pursuant to Article VII of this Declaration for reconstruction or repair of the Property are less than 85 percent of the estimated cost of restoration and repair, any restoration and repair work must be authorized by the vote or written consent of Owners representing at least 75 percent of the total voting power of each class of Owners and beneficiaries of at least 75 percent of the First Mortgages on Lots in the Development. This authorization must be given within 60 days of the damage or destruction and must authorize the Board to levy a special assessment to provide the necessary funds over and above the amount of any insurance proceeds available for the work.
+If the proceeds of any insurance maintained pursuant to Article VII of this Declaration for reconstruction or repair of the Property are less than 85 percent of the estimated cost of restoration and repair, any restoration and repair work must be authorized by the vote or written consent of Owners representing at least 75 percent of the total voting power of Owners and beneficiaries of at least 75 percent of the First Mortgages on Lots in the Development. This authorization must be given within 60 days of the damage or destruction and must authorize the Board to levy a special assessment to provide the necessary funds over and above the amount of any insurance proceeds available for the work.
 
 ##### Section 8.05 Ordering Reconstruction or Repair
 
@@ -702,7 +658,7 @@ Notwithstanding the foregoing, any First Mortgagee who receives a written reques
 
 ##### Section 10.07 Mortgagee Approval of Other Actions
 
-Unless at least 67 percent of the First Mortgagees (based upon one vote for each First Mortgage owned), or 67 percent of the Lot Owners other than Declarant, have given their prior written approval, the Association shall not be entitled to:
+Unless at least 67 percent of the First Mortgagees (based upon one vote for each First Mortgage owned), or 67 percent of the Lot Owners, have given their prior written approval, the Association shall not be entitled to:
 
     (a) By act of omission, seek to abandon or terminate the Development;
 
@@ -744,17 +700,9 @@ Institutional First Mortgagees, upon written request, shall have the right to
 
 ### ARTICLE XI ANNEXATION OF ADDITIONAL PROPERTY
 
-##### Section 11.01 Addition by Declarant
-
-Declarant shall have the right to add all or any property to the Development. This election shall be made by the recordation of a supplemental declaration ("Supplemental Declaration"). The Supplemental Declaration shall describe the real property to be annexed, and shall state that the property described in it is being annexed to the Development pursuant to Article XI of this Declaration. The Supplemental Declaration may also set forth any additional covenants, conditions, restrictions, reservations, and easements that Declarant deems appropriate for that phase of development.
-
-##### Section 11.02 Rights and Obligations of Owners of Annexed Property
+##### Section 11.01 Rights and Obligations of Owners of Annexed Property
 
 Upon the recordation of the Supplemental Declaration, the real property described in it shall be part of the Development and subject to the provisions of this Declaration in the same manner as if it were originally covered by this Declaration. Thereafter, the rights, powers, and responsibilities of Owners of Lots within the annexed property shall be the same as if the annexed property were originally covered by this Declaration; provided, however, that their voting rights shall not commence until the date of commencement of the regular assessments for their Lots. The commencement of assessments on the annexed real property shall be governed by Section 4.07 of this Declaration.
-
-##### Section 11.03 Reciprocal Easements
-
-Declarant hereby reserves, for the benefit of and appurtenant to the Lots located in any phase of development annexed to the first phase of this Development and their respective Owners, reciprocal easements to use the Common Area in the first phase pursuant to and in the manner set forth in this Declaration. Declarant hereby grants, for the benefit of and appurtenant to the Lots in the first phase of this Development and their Owners, a nonexclusive easement to use the Common Area (other than any buildings or Exclusive Use Common Areas) in each phase of development annexed to the first phase, pursuant to and in the manner set forth in this Declaration. These reciprocal easements shall be effective as to any annexed real property upon the first close of escrow for the sale of a Lot in the annexed property.
 
 ### ARTICLE XII GRANT OF EASEMENTS TO OTHER DEVELOPMENTS
 
@@ -764,13 +712,9 @@ The Association may grant, in its absolute discretion, easements or rights of wa
 
 ### ARTICLE XIII. AMENDMENTS
 
-##### Section 13.01 Amendment or Revocation Before Close of First Sale
+##### Section 13.01 Amendments by Owners
 
-At any time before the close of the first sale of a Lot to a purchaser other than Declarant, Declarant and any Mortgagee of record may, by executing an appropriate instrument, amend or revoke this Declaration. The executed instrument shall be acknowledged and recorded in the Office of the Recorder of Utah County.
-
-##### Section 13.02 Amendments by Owners After Close of First Sale
-
-At any time after the close of the first sale of a Lot-to a purchaser other than Declarant, this Declaration may be amended by the vote or written consent of Owners representing not less than 67 percent of the voting power of each class of Owners of the Association. If only one class of membership exists at the time an amendment is proposed, then it must be approved by not less than 67 percent of the voting power of the Association, which shall include at least a majority of the votes residing in Owners other than Declarant. Notwithstanding any contrary provision in this Section, the percentage of the voting power necessary to amend a specific clause or provision of this Declaration shall not be less than the percentage of affirmative votes prescribed for action to be taken under that clause or provision. An amendment becomes effective after
+This Declaration may be amended by the vote or written consent of Owners representing not less than 67 percent of the voting power of Owners of the Association. Notwithstanding any contrary provision in this Section, the percentage of the voting power necessary to amend a specific clause or provision of this Declaration shall not be less than the percentage of affirmative votes prescribed for action to be taken under that clause or provision. An amendment becomes effective after
 
     (1) the approval of the required percentage of Owners has been given,
 
@@ -778,9 +722,9 @@ At any time after the close of the first sale of a Lot-to a purchaser other than
 
     (3) that writing has been recorded in the county in which this Development is located.
 
-##### Section 13.03 Amendments Pursuant to Court Order
+##### Section 13.02 Amendments Pursuant to Court Order
 
-If this Declaration requires a proposed amendment to be approved by the affirmative vote of a specified percentage (exceeding 50 percent) of the votes in the Association or of Owners having a specified percentage (exceeding 50 percent) of the votes in more than one class (a "supermajority"), and more than 50 percent but less than the required supermajority of the votes approve the amendment, the Association or any Owner may petition the Fourth Judicial District Court for Utah County for an order reducing the percentage of the affirmative votes necessary for the amendment or approving the amendment. If such an order is issued, the amendment shall be acknowledged by any person designated by the Association for that purpose or, if no such designation is made, by the President of the Association and that person shall have the amendment and the court order recorded in Utah County. Upon recordation, the amended provision or provisions of this Declaration shall have the same force and effect as if the amendment were adopted in compliance with every requirement imposed by this Declaration and the other governing documents. Within a reasonable time after recordation, the Association shall mail a copy of the amendment and a statement regarding the amendment to each Owner.
+If this Declaration requires a proposed amendment to be approved by the affirmative vote of a specified percentage (exceeding 50 percent) of the votes in the Association or of Owners having a specified percentage (exceeding 50 percent) of the votes (a "supermajority"), and more than 50 percent but less than the required supermajority of the votes approve the amendment, the Association or any Owner may petition the Fourth Judicial District Court for Utah County for an order reducing the percentage of the affirmative votes necessary for the amendment or approving the amendment. If such an order is issued, the amendment shall be acknowledged by any person designated by the Association for that purpose or, if no such designation is made, by the President of the Association and that person shall have the amendment and the court order recorded in Utah County. Upon recordation, the amended provision or provisions of this Declaration shall have the same force and effect as if the amendment were adopted in compliance with every requirement imposed by this Declaration and the other governing documents. Within a reasonable time after recordation, the Association shall mail a copy of the amendment and a statement regarding the amendment to each Owner.
 
 ### ARTICLE XIV. GENERAL PROVISIONS
 
@@ -798,7 +742,7 @@ The provisions of this Declaration shall be deemed independent and severable, an
 
 ##### Section 14.04 Binding
 
-This Declaration as well as any amendment thereto and any valid action or directive made pursuant thereto, shall be binding on the Declarant and the Owners and their heirs, grantees, tenants, successors, and assigns.
+This Declaration as well as any amendment thereto and any valid action or directive made pursuant thereto, shall be binding on the Owners and their heirs, grantees, tenants, successors, and assigns.
 
 ##### Section 14.05 Interpretation
 
@@ -810,7 +754,7 @@ The liability of any Owner for performance of any of the provisions of this Decl
 
 ##### Section 14.07 Fair Housing
 
-Neither Declarant nor any Owner shall, either directly or indirectly, forbid the conveyance, encumbrance, renting, leasing, or occupancy of the Owner's Lot to any person on the basis of race, color, sex, religion, ancestry, or national origin.
+No Owner shall, either directly or indirectly, forbid the conveyance, encumbrance, renting, leasing, or occupancy of the Owner's Lot to any person on the basis of race, color, sex, religion, ancestry, or national origin.
 
 ##### Section 14.08 Future Dedication of Common Area
 
