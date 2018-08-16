@@ -250,13 +250,9 @@ In addition to the duties delegated to the Association or its agents and employe
 
         (3) A statement of changes in financial position for the fiscal year.
 
-        (4) For any fiscal year in which the gross income to the Association exceeds $75,000, a copy of the review of the annual report prepared in accordance with generally accepted accounting principles by a Certified Public Accountant.
+    (e) The Association shall prepare an annual balance sheet and operating statement and distribute this information to the Owners within 60 days after the accounting date upon which the information is based.
 
-    (e) Within 60 days prior to the beginning of each fiscal year, the Association shall prepare and distribute to the Owners a statement describing the Association's policies and practices in enforcing lien rights or legal remedies for default in payment of assessments against Owners.
-
-    (f) The Association shall prepare a balance sheet, as of an accounting date that is the last day of the month closest in time to six months from the date of closing of the first sale of a Lot in the Development, and an operating statement for the period from the date of the first closing to the foregoing accounting date. The Association shall distribute this statement to the Owners within 60 days after the accounting date. This operating statement shall include a schedule of assessments received and receivable identified by the number of the Lot and the name of the Owner assessed.
-
-    (g) The Association shall provide any Owner with the following documents within 10 days of the mailing or delivery of a written request therefor:
+    (f) The Association shall provide any Owner with the following documents within 10 days of the mailing or delivery of a written request therefor:
 
         (1) A copy of the Governing Instruments.
 
@@ -270,15 +266,11 @@ In addition to the duties delegated to the Association or its agents and employe
 
         The Association may charge the Owner a reasonable fee to cover its cost to prepare and reproduce those requested items.
 
-    (h) The Association shall pay all real and personal property taxes and assessments levied against it, its personal property, and the Common Area.
+    (g) The Association shall pay all real and personal property taxes and assessments levied against it, its personal property, and the Common Area.
 
-    (i) The Association shall enter into an agreement with Provo City Corporation to provide garbage removal services to the Property.
+    (h) The Association shall be responsible to employ or contract with personnel to remove all snow from the private streets located in the Property.
 
-    (j) The Association shall be responsible to employ or contract with personnel to remove all snow from the private streets located in the Property.
-
-        (l) In the event the Association determines to dedicate the private streets within the Property to Provo City Corporation, then the Association shall be responsible to improve all private streets according to width standards and other standards as required by Provo City Corporation.
-
-    (k) The Association shall be responsible to erect and maintain above-ground signs every fifty (50) feet on, at least, one side of the street which state: "NO PARKING - FIRE LANE - TOW AWAY ZONE."
+    (i) The Association shall be responsible to erect and maintain above-ground signs every fifty (50) feet on, at least, one side of the street which indicate that parking is not allowed.
 
 ##### Section 3.07 Board of Directors
 
