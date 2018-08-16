@@ -256,12 +256,12 @@ Every member of the Board of Directors, subject to the conditions set forth abov
 
 All assessments shall be made in accordance with the general provisions of Article IV of the Declaration. The Treasurer shall keep detailed records of all receipts and expenditures, including expenditures affecting the Property, specifying and itemizing the maintenance, repair and replacement expenses of the Property and any other expenses incurred. Such records shall be available for examination by the Owners during regular business hours. In accordance with the actions of the Board of Directors in assessing common expenses against the Lots and Owners, the Treasurer shall keep an accurate record of such assessments and of the payments thereof by each Owner.
 
-### ARTICLE XIII Amendments
+### ARTICLE XII Amendments
 
-##### Section 13.1 Amendment Procedure
+##### Section 12.1 Amendment Procedure
 
 These Bylaws may be amended, at a regular or special meeting of the Members, by a vote, either in person or by proxy, of Members holding two-thirds (2/3) or more of the voting power of the Association.
 
-##### Section 13.2 Conflict
+##### Section 12.2 Conflict
 
 In the case of any conflict between the Articles of Incorporation and these Bylaws, the Bylaws shall control; and in the case of any conflict between the Declaration and these Bylaws, the Declaration shall control.
