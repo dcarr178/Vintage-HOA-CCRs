@@ -4,7 +4,7 @@
 
 ##### Section 1.1 Name and Location
 
-The name of the corporation is Vintage on the River Homeowners Association, Inc., hereinafter referred to as the &quot;Association.&quot; The meetings of Members and Trustees may be held at such places in the State of Utah, as may be designated by the Board of Trustees.
+The name of the corporation is Vintage on the River Homeowners Association, Inc., hereinafter referred to as the &quot;Association.&quot; The meetings of Members and Directors may be held at such places in the State of Utah, as may be designated by the Board of Directors.
 
 ##### Section 1.2 Application of Bylaws
 
@@ -14,11 +14,11 @@ All present and future Owners, Mortgagees, lessees and occupants of any Lot and 
 
 ##### Section 2.1 Annual Meetings
 
-The annual meeting of the Members shall be held on such date and time fixed by the Board of Trustees.
+The annual meeting of the Members shall be held on such date and time fixed by the Board of Directors.
 
 ##### Section 2.2 Special Meetings
 
-Special meetings of the Members may be called at any time by the President or by the Board of Trustees, or upon written request of the Members who are entitled to vote thirty-three percent (33%) of all of the votes of the membership.
+Special meetings of the Members may be called at any time by the President or by the Board of Directors, or upon written request of the Members who are entitled to vote thirty-three percent (33%) of all of the votes of the membership.
 
 ##### Section 2.3 Notice of Meetings
 
@@ -52,57 +52,57 @@ At each meeting of the Members, each Member entitled to vote shall be entitled t
 
 Each Member will register one email address with the Association to be used for all official association business including notice of meetings, sending electronic ballots, notice of assessments and fees, and all other official Association business. The association will not use these email addresses for marketing or for any other purpose than official Association business.
 
-### ARTICLE III Board of Trustees, Selection, Term
+### ARTICLE III Board of Directors, Selection, Term
 
 ##### Section 3.1 Number
 
-The affairs of this Association shall be managed by a Board of at least three (3) but not more than seven (7) trustees, who need not be Members of the Association.
+The affairs of this Association shall be managed by a Board of at least three (3) but not more than seven (7) directors, who need not be Members of the Association.
 
 ##### Section 3.2 Term of Office
 
-At the first annual meeting the Members shall elect one trustee for a term of one (1) year, two trustees for terms of two (2) years each, and two trustees for terms of three (3) years each; and at each annual meeting thereafter the Members shall elect trustees to terms of three (3) years.
+At the first annual meeting the Members shall elect one director for a term of one (1) year, two directors for terms of two (2) years each, and two directors for terms of three (3) years each; and at each annual meeting thereafter the Members shall elect directors to terms of three (3) years.
 
 ##### Section 3.3 Removal
 
-Any trustee may be removed from the Board of Trustees, with or without cause, by a majority vote of the Members of the Association. In the event of death, resignation or removal of a trustee, his successor shall be selected by the remaining Members of the Board of Trustees and shall serve for the unexpired term of his predecessor.
+Any director may be removed from the Board of Directors, with or without cause, by a majority vote of the Members of the Association. In the event of death, resignation or removal of a director, his successor shall be selected by the remaining Members of the Board of Directors and shall serve for the unexpired term of his predecessor.
 
 ##### Section 3.4 Compensation
 
-No trustee shall receive compensation for any service he may render to the Association. However, any trustee may be reimbursed for his actual expenses incurred in the performance of his duties and approved, in advance, by the Board.
+No director shall receive compensation for any service he may render to the Association. However, any director may be reimbursed for his actual expenses incurred in the performance of his duties and approved, in advance, by the Board.
 
 ##### Section 3.5 Action Taken Without a Meeting
 
-The trustees shall have the right to take any action in the absence of a meeting which they could take at a meeting by obtaining the written approval of all the trustees. Any action so approved shall have the same effect as though taken at a meeting of the trustees.
+The directors shall have the right to take any action in the absence of a meeting which they could take at a meeting by obtaining the written approval of all the directors. Any action so approved shall have the same effect as though taken at a meeting of the directors.
 
-### ARTICLE IV Nomination and Election of Trustees
+### ARTICLE IV Nomination and Election of Directors
 
 ##### Section 4.1 Nomination
 
-Nomination for election to the Board of Trustees shall be made from the floor at the annual meeting of the Association. Such nominations may be made from among Members or non-Members.
+Nomination for election to the Board of Directors shall be made from the floor at the annual meeting of the Association.
 
 ##### Section 4.2 Election
 
-Election to the Board of Trustees shall be by secret written ballot. At such election the Members or their proxies may cast, in respect to each vacancy, as many votes as they are entitled to exercise under the provisions of the Declaration. The persons receiving the largest number of votes shall be elected.
+Election to the Board of Directors shall be by secret written ballot. At such election the Members or their proxies may cast, in respect to each vacancy, as many votes as they are entitled to exercise under the provisions of the Declaration. The persons receiving the largest number of votes shall be elected.
 
-### ARTICLE V Meeting of Trustees
+### ARTICLE V Meeting of Directors
 
 ##### Section 5.1 Regular Meetings
 
-The Board of Trustees shall hold a regular meeting at least semi-annually, without notice, at such place and hour as may be fixed from time to time by resolution of the Board of Trustees. Should said meeting fall upon a legal holiday, then that meeting shall be held at the same time on the next day which is not a legal holiday.
+The Board of Directors shall hold a regular meeting at least semi-annually, without notice, at such place and hour as may be fixed from time to time by resolution of the Board of Directors.
 
 ##### Section 5.2 Special Meetings
 
-Special meetings of the Board of Trustees shall be held when called by the President of the Association, or by any four (4) trustees, after not less than three (3) days notice to each trustee.
+Special meetings of the Board of Directors shall be held when called by the President of the Association, or by any four (4) directors, after not less than three (3) days notice to each director.
 
 ##### Section 5.3 Quorum
 
-A majority of the number of trustees shall constitute a quorum for the transaction of business. Every act or decision done or made by a majority of the trustees present at a duly held meeting at which a quorum is present shall be regarded as the act of the Board of Trustees.
+A majority of the number of directors shall constitute a quorum for the transaction of business. Every act or decision done or made by a majority of the directors present at a duly held meeting at which a quorum is present shall be regarded as the act of the Board of Directors.
 
-### ARTICLE VI Powers and Duties of the Board of Trustees
+### ARTICLE VI Powers and Duties of the Board of Directors
 
 ##### Section 6.1 Powers
 
-The Board of Trustees shall have power to:
+The Board of Directors shall have power to:
 
     (a) Adopt and publish rules and regulations governing the use of the Common Areas, and the personal conduct of the Members and their guests thereon, and to establish penalties of the infraction thereof;
 
@@ -110,13 +110,13 @@ The Board of Trustees shall have power to:
 
     (c) Exercise for the Association all powers, duties and authority vested in or delegated to this Association and not reserved to the membership by other provisions of these Bylaws, the Articles, or the Declaration;
 
-    (d) Declare the office of a member of the Board of Trustees to be vacant in the event such member shall be absent from three (3) consecutive regular meetings of the Board of Trustees; and
+    (d) Declare the office of a member of the Board of Directors to be vacant in the event such member shall be absent from three (3) consecutive regular meetings of the Board of Directors; and
 
     (e) Employ a Manager, an independent contractor, and such other employees as they deem necessary, and to prescribe their duties.
 
 ##### Section 6.2 Duties
 
-It shall be the duty of the Board of Trustees to:
+It shall be the duty of the Board of Directors to:
 
     (a) Cause to be kept a complete record of all its acts and corporate affairs and to present a statement thereof to the Members at the annual meeting of the Members, or at any special meeting when such statement is requested in writing by one-fourth (1/4) of the Members who are entitled to vote;
 
@@ -130,9 +130,9 @@ It shall be the duty of the Board of Trustees to:
 
         (iii) Foreclose at its discretion the lien against any Lot for which assessments are not timely paid and/or to bring an action at law against the Owner personally obligated to pay the same.
 
-    (d) Issue, or cause an appropriate officer to issue, upon demand by any person, a certificate setting forth whether or not any assessment has been paid. A reasonable charge may be made by the Board of Trustees for the issuance of these certificates. If a certificate states an assessment has been paid, such certificate shall be conclusive evidence of such payment;
+    (d) Issue, or cause an appropriate officer to issue, upon demand by any person, a certificate setting forth whether or not any assessment has been paid. A reasonable charge may be made by the Board of Directors for the issuance of these certificates. If a certificate states an assessment has been paid, such certificate shall be conclusive evidence of such payment;
 
-    (e) Procure and maintain adequate liability and hazard insurance on property owned by the Association, and adequate officers and trustees indemnity insurance, and all other insurance required by the Declaration;
+    (e) Procure and maintain adequate liability and hazard insurance on property owned by the Association, and adequate officers and directors indemnity insurance, and all other insurance required by the Declaration;
 
     (f) Cause all officers or employees having fiscal responsibilities to be bonded, if deemed appropriate by the Board;
 
@@ -146,27 +146,27 @@ It shall be the duty of the Board of Trustees to:
 
 ##### Section 7.1 Enumeration of Officers
 
-The officers of the Association shall be a President, Vice President, Secretary and Treasurer, who shall at all times be Members of the Board of Trustees, and such other officers as the Board of Trustees may from time to time by resolution create.
+The officers of the Association shall be a President, Vice President, Secretary and Treasurer, who shall at all times be Members of the Board of Directors, and such other officers as the Board of Directors may from time to time by resolution create.
 
 ##### Section 7.2 Election of Officers
 
-The election of officers shall take place at the first meeting of the Board of Trustees following each annual meeting of the Members.
+The election of officers shall take place at the first meeting of the Board of Directors following each annual meeting of the Members.
 
 ##### Section 7.3 Term
 
-The officers of this Association shall be elected annually by the Board of Trustees and each shall hold office for one (1) year or until his or her successor is elected and has qualified, unless he or she shall sooner resign, or shall be removed, or otherwise disqualified to serve.
+The officers of this Association shall be elected annually by the Board of Directors and each shall hold office for one (1) year or until his or her successor is elected and has qualified, unless he or she shall sooner resign, or shall be removed, or otherwise disqualified to serve.
 
 ##### Section 7.4 Special Appointments
 
-The Board of Trustees may elect such other officers as the affairs of the Association may require, each of whom shall hold office for such period, have such authority, and perform such duties as the Board of Trustees may, from time to time, determine.
+The Board of Directors may elect such other officers as the affairs of the Association may require, each of whom shall hold office for such period, have such authority, and perform such duties as the Board of Directors may, from time to time, determine.
 
 ##### Section 7.5 Resignation and Removal
 
-Any officer may be removed from office with or without case by the Board of Trustees. Any officer may resign at any time by giving written notice to the Board of Trustees, the President or the Secretary. Such resignation shall take effect on the date of receipt of such notice or at any later time specified therein, and unless otherwise specified therein, the acceptance of such resignation shall not be necessary to make it effective.
+Any officer may be removed from office with or without case by the Board of Directors. Any officer may resign at any time by giving written notice to the Board of Directors, the President or the Secretary. Such resignation shall take effect on the date of receipt of such notice or at any later time specified therein, and unless otherwise specified therein, the acceptance of such resignation shall not be necessary to make it effective.
 
 ##### Section 7.6 Vacancies
 
-A vacancy in any office may be filled by appointment by the Board of Trustees. The officer appointed to such vacancy shall serve for the remainder of the term of the officer he replaces.
+A vacancy in any office may be filled by appointment by the Board of Directors. The officer appointed to such vacancy shall serve for the remainder of the term of the officer he replaces.
 
 ##### Section 7.7 Multiple Offices
 
@@ -178,7 +178,7 @@ The duties of the officers are as follows:
 
     President:
 
-        The President shall preside at all meetings of the Board of Trustees; shall see that orders and resolutions of the Board of Trustees are carried out; shall sign all leases, mortgages, promissory notes, checks, deeds and other written instruments.
+        The President shall preside at all meetings of the Board of Directors; shall see that orders and resolutions of the Board of Directors are carried out; shall sign all leases, mortgages, promissory notes, checks, deeds and other written instruments.
 
     Vice President:
 
@@ -190,47 +190,47 @@ The duties of the officers are as follows:
 
     Treasurer:
 
-        The Treasurer shall receive and deposit in appropriate bank accounts all monies of the Association and shall disburse such funds as directed by resolution of the Board of Trustees; shall, together with the President, sign all checks and promissory notes of the Association; keep proper books of account; cause an annual audit or review of the Association books to be made by a public accountant at the completion of each fiscal year; and shall prepare an annual budget and a statement of income and expenditures, and deliver a copy of each to the Members.
+        The Treasurer shall receive and deposit in appropriate bank accounts all monies of the Association and shall disburse such funds as directed by resolution of the Board of Directors; shall, together with the President, sign all checks and promissory notes of the Association; keep proper books of account; cause an annual audit or review of the Association books to be made by a public accountant at the completion of each fiscal year; and shall prepare an annual budget and a statement of income and expenditures, and deliver a copy of each to the Members.
 
-### ARTICLE VIII indemnification of Officers and Trustees
+### ARTICLE VIII indemnification of Officers and Directors
 
-The Association shall provide any indemnification required or permitted by the laws of Utah and shall indemnify trustees, officers, agents and employees as follows:
+The Association shall provide any indemnification required or permitted by the laws of Utah and shall indemnify directors, officers, agents and employees as follows:
 
 ##### Section 8.1 Third Party Litigation
 
-The Association shall indemnify any trustee or officer of the Association who was or is a party or is threatened to be made a party to any threatened, pending, or completed action, suit or proceedings, whether civil, criminal, administrative, or investigative (other than an action by or in the right of the Association) by reason of the fact that he is or was such trustee or officer or an employee or agent of the Association, or is or was serving at the request of the Association as a trustee, officer, employee, or agent of another corporation, partnership, joint venture, trust or other enterprise, against expenses (including attorney's fees), judgments, fines and amounts paid in settlement actually and reasonably incurred by him in connection with such action, suit or proceeding if he acted in good faith and in a manner which he reasonably believed to be in or not opposed to the best interests of the Association, and, with respect to any criminal action or proceeding, had no reasonable cause to believe his conduct was unlawful. The termination of any action, suit or proceeding by judgment, order, settlement, conviction, or upon a plea of nolo contendere or its equivalent, shall not, of itself, create a presumption that the person did not act in good faith, and in a manner which he reasonably believed to be in or not opposed to the best interest of the Association, and with respect to any criminal action or proceeding, had reasonable cause to believe that his conduct was unlawful.
+The Association shall indemnify any director or officer of the Association who was or is a party or is threatened to be made a party to any threatened, pending, or completed action, suit or proceedings, whether civil, criminal, administrative, or investigative (other than an action by or in the right of the Association) by reason of the fact that he is or was such director or officer or an employee or agent of the Association, or is or was serving at the request of the Association as a director, officer, employee, or agent of another corporation, partnership, joint venture, trust or other enterprise, against expenses (including attorney's fees), judgments, fines and amounts paid in settlement actually and reasonably incurred by him in connection with such action, suit or proceeding if he acted in good faith and in a manner which he reasonably believed to be in or not opposed to the best interests of the Association, and, with respect to any criminal action or proceeding, had no reasonable cause to believe his conduct was unlawful. The termination of any action, suit or proceeding by judgment, order, settlement, conviction, or upon a plea of nolo contendere or its equivalent, shall not, of itself, create a presumption that the person did not act in good faith, and in a manner which he reasonably believed to be in or not opposed to the best interest of the Association, and with respect to any criminal action or proceeding, had reasonable cause to believe that his conduct was unlawful.
 
 ##### Section 8.2 Association Litigation
 
-The Association shall indemnify any trustee or officer of the Association who was or is a party or is threatened to be made a party to any threatened, pending, or completed action or suit by or in the right of the Association to procure a judgment in its favor by reason of the fact that he is or was such a trustee or officer or an employee or agent of the Association, or is or was serving at the request of the Association as trustee, officer, employee, or agent of another corporation, partnership, joint venture, trust or other enterprise, against expenses (including attorney's fees) actually and reasonably incurred by him in connection with the defense or settlement of such action or suit if he acted in good faith and in a manner he reasonably believed to be in or not opposed to the best interests of the Association, except that no indemnification shall be made in respect of any claim, issue, or matter as to which such person shall have been adjudged to be liable for gross negligence or misconduct in the performance of his duty to the Association unless and only to the extent that the court in which such action or suit was brought, or any other court having jurisdiction in the premises, shall determine upon application that, despite the adjudication of liability but in view of all circumstances of the case, such person is fairly and reasonably entitled to indemnity for such expenses which such court shall deem proper.
+The Association shall indemnify any director or officer of the Association who was or is a party or is threatened to be made a party to any threatened, pending, or completed action or suit by or in the right of the Association to procure a judgment in its favor by reason of the fact that he is or was such a director or officer or an employee or agent of the Association, or is or was serving at the request of the Association as director, officer, employee, or agent of another corporation, partnership, joint venture, trust or other enterprise, against expenses (including attorney's fees) actually and reasonably incurred by him in connection with the defense or settlement of such action or suit if he acted in good faith and in a manner he reasonably believed to be in or not opposed to the best interests of the Association, except that no indemnification shall be made in respect of any claim, issue, or matter as to which such person shall have been adjudged to be liable for gross negligence or misconduct in the performance of his duty to the Association unless and only to the extent that the court in which such action or suit was brought, or any other court having jurisdiction in the premises, shall determine upon application that, despite the adjudication of liability but in view of all circumstances of the case, such person is fairly and reasonably entitled to indemnity for such expenses which such court shall deem proper.
 
 ##### Section 8.3 Expenses
 
-To the extent that a trustee or officer of the Association has been successful on the merits or otherwise in defense of any action, suit or proceeding referred to in Section 1 or 2 of this Article, or in defense of any claim, issue, or matter therein, he shall be indemnified against expenses (including attorney's fees) actually and reasonably incurred by him in connection therewith, without the necessity for the determination as to the standard of conduct as provided in Section 4 of this Article.
+To the extent that a director or officer of the Association has been successful on the merits or otherwise in defense of any action, suit or proceeding referred to in Section 1 or 2 of this Article, or in defense of any claim, issue, or matter therein, he shall be indemnified against expenses (including attorney's fees) actually and reasonably incurred by him in connection therewith, without the necessity for the determination as to the standard of conduct as provided in Section 4 of this Article.
 
 ##### Section 8.4 Determination of Right to Indemnity
 
-Any indemnification under Section 1 or 2 of this Article (unless ordered by a court) shall be made by the Association only as authorized in the specific case upon a determination that indemnification of the trustee or officer is proper in the circumstances because he has met the applicable standard of conduct set forth in Section 1 or 2 of this Article. Such determination shall be made
+Any indemnification under Section 1 or 2 of this Article (unless ordered by a court) shall be made by the Association only as authorized in the specific case upon a determination that indemnification of the director or officer is proper in the circumstances because he has met the applicable standard of conduct set forth in Section 1 or 2 of this Article. Such determination shall be made
 
-    (a) by the Board of Trustees of the Association by a majority vote of a quorum consisting of trustees who were not parties to such action, suit or proceeding, or
+    (a) by the Board of Directors of the Association by a majority vote of a quorum consisting of directors who were not parties to such action, suit or proceeding, or
 
-    (b) if such a quorum is not obtainable, or even if obtainable, and such a quorum of disinterested trustees so directs, by independent legal counsel (who may be regular counsel for the Association) in a written opinion; and any determination so made shall be conclusive.
+    (b) if such a quorum is not obtainable, or even if obtainable, and such a quorum of disinterested directors so directs, by independent legal counsel (who may be regular counsel for the Association) in a written opinion; and any determination so made shall be conclusive.
 
 ##### Section 8.5 Advance of Expenses
 
-Expenses incurred in defending a civil or criminal action, suit or proceeding may be paid by the Association in advance of the final disposition of such action, suit or proceeding, as authorized in the particular case, upon receipt of an undertaking by or on behalf of the trustee or officer to repay such amount unless it shall ultimately be determined that he is entitled to be indemnified by the Association as authorized in this Article.
+Expenses incurred in defending a civil or criminal action, suit or proceeding may be paid by the Association in advance of the final disposition of such action, suit or proceeding, as authorized in the particular case, upon receipt of an undertaking by or on behalf of the director or officer to repay such amount unless it shall ultimately be determined that he is entitled to be indemnified by the Association as authorized in this Article.
 
 ##### Section 8.6 Other Indemnification Rights
 
-Agents and employees of the Association who are not trustees or officers of the Association may be indemnified under the same standards and procedures set forth above, in the discretion of the Board of Trustees of the Association.
+Agents and employees of the Association who are not directors or officers of the Association may be indemnified under the same standards and procedures set forth above, in the discretion of the Board of Directors of the Association.
 
 ##### Section 8.7 Benefitted Parties
 
-Any indemnification pursuant to this Article shall not be deemed exclusive of any other rights to which those indemnified may be entitled and shall continue as to a person who has ceased to be a trustee or officer and shall inure to the benefit of the heirs, executors, and administrators of such a person.
+Any indemnification pursuant to this Article shall not be deemed exclusive of any other rights to which those indemnified may be entitled and shall continue as to a person who has ceased to be a director or officer and shall inure to the benefit of the heirs, executors, and administrators of such a person.
 
 ### ARTICLE IX Committees
 
-The Association may appoint a nominating committee, as provided in these Bylaws. In addition, the Board of Trustees shall appoint other committees as deemed appropriate in carrying out its purpose.
+The Association may appoint a nominating committee, as provided in these Bylaws. In addition, the Board of Directors shall appoint other committees as deemed appropriate in carrying out its purpose.
 
 ### ARTICLE X Books and Records
 
@@ -242,7 +242,7 @@ The Association may appoint a nominating committee, as provided in these Bylaws.
 
 ##### Section 10.2 Inspection of Records
 
-The membership register, books of account and minutes of meetings of the Association, of the Board of Trustees and of committees of the Board of Trustees and all other records of the Property maintained by the Association or Manager shall be made available for inspection and copying by any Member of the Association or his duly appointed representative at any reasonable time and for a non-commercial purpose reasonably related to his interest as a Member, at the office where the records are maintained. Upon receipt of an authenticated written request from a Member along with the fee prescribed by the Board of Trustees to defray the costs of reproduction, the Manager or other custodian of records of the Association shall prepare and transmit to the Member a copy of any and all records requested. The Board of Trustees shall establish reasonable rules with respect to:
+The membership register, books of account and minutes of meetings of the Association, of the Board of Directors and of committees of the Board of Directors and all other records of the Property maintained by the Association or Manager shall be made available for inspection and copying by any Member of the Association or his duly appointed representative at any reasonable time and for a non-commercial purpose reasonably related to his interest as a Member, at the office where the records are maintained. Upon receipt of an authenticated written request from a Member along with the fee prescribed by the Board of Directors to defray the costs of reproduction, the Manager or other custodian of records of the Association shall prepare and transmit to the Member a copy of any and all records requested. The Board of Directors shall establish reasonable rules with respect to:
 
     (a) Notice to be given to the custodian of the records by the Member desiring to make the inspection;
 
@@ -250,15 +250,11 @@ The membership register, books of account and minutes of meetings of the Associa
 
     (c) Payment of the cost of reproducing copies of documents requested by a Member.
 
-Every member of the Board of Trustees, subject to the conditions set forth above, shall have the absolute right at any reasonable time to inspect and make copies of all books, records and documents of the Association and to inspect all real and personal properties owned or controlled by the Association.
+Every member of the Board of Directors, subject to the conditions set forth above, shall have the absolute right at any reasonable time to inspect and make copies of all books, records and documents of the Association and to inspect all real and personal properties owned or controlled by the Association.
 
 ### ARTICLE XI Assessments
 
-All assessments shall be made in accordance with the general provisions of Article IV of the Declaration. The Treasurer shall keep detailed records of all receipts and expenditures, including expenditures affecting the Property, specifying and itemizing the maintenance, repair and replacement expenses of the Property and any other expenses incurred. Such records shall be available for examination by the Owners during regular business hours. In accordance with the actions of the Board of Trustees in assessing common expenses against the Lots and Owners, the Treasurer shall keep an accurate record of such assessments and of the payments thereof by each Owner.
-
-### ARTICLE XII Corporate Seal
-
-The Association may, but shall not be obligated to, have a seal in circular form having within its circumference the words: &quot;Vintage on the River Homeowners Association, Inc.&quot;, or in lieu thereof the word &quot;SEAL&quot; may be placed adjacent to the signature of an authorized officer of the Association.
+All assessments shall be made in accordance with the general provisions of Article IV of the Declaration. The Treasurer shall keep detailed records of all receipts and expenditures, including expenditures affecting the Property, specifying and itemizing the maintenance, repair and replacement expenses of the Property and any other expenses incurred. Such records shall be available for examination by the Owners during regular business hours. In accordance with the actions of the Board of Directors in assessing common expenses against the Lots and Owners, the Treasurer shall keep an accurate record of such assessments and of the payments thereof by each Owner.
 
 ### ARTICLE XIII Amendments
 
