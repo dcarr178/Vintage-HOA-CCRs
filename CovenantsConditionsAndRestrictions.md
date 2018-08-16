@@ -396,15 +396,15 @@ All fencing shall be constructed of material approved by the Architectural Contr
 
     (b) 30 feet for dwellings which are set back 60 feet from the back of the curb.
 
-##### Section 5.12 Time Limit for Construction of Residential Dwelling
+##### Section 5.06 Time Limit for Construction of Residential Dwelling
 
 All residential dwellings shall be fully constructed within 18 months of the issuance by the City of Provo, Utah, of a building permit therefore.
 
-##### Section 5.13 Removal of Dead Trees and Debris
+##### Section 5.07 Removal of Dead Trees and Debris
 
 All dead trees and debris must be removed from a Lot, at the Owner's sole expense.
 
-##### Section 5.14 Maintenance of Lots
+##### Section 5.08 Maintenance of Lots
 
 All Lots (while vacant and after building construction is completed) shall be maintained in such a manner as to keep cleared or reasonably cut any type of vegetation which could become a fire hazard or becomes unsightly.
 
