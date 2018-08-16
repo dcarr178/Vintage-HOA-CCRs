@@ -376,9 +376,9 @@ In exercising the right to occupy or use a Lot or the Common Area and its improv
 
     (o) Permit the use of sports and/or tennis courts after the hour of 10:00 p.m., permit obnoxious, offensive or loud noise thereon or permit dwelling, sport and/or tennis court lighting to interfere with the quiet enjoyment of other Owners.
 
-##### Section 5.02 Required Trees, Mailbox Enclosures and Street Light Fixtures
+##### Section 5.02 Required Trees and Mailbox Enclosures
 
-Each Lot upon which a residential dwelling is constructed shall have planted thereon at the Owner's sole expense, a minimum of three (3) one and one-half (1/2) inch caliper deciduous trees or three (3) evergreen trees which stand four (4) feet tall and four shrubs and foundation planting of appropriate shrubs, flowers or ground-covers. The location of trees shall be approved by the Architectural Control Committee. An Owner may, if approved by the Committee in its sole discretion, satisfy said requirement with existing trees. Any owner of any Lot shall not remove any existing, living trees of six (6) inches in diameter without prior, written approval of the Committee. Each Lot upon which a residential dwelling is constructed shall have constructed thereon at the Owner's sole expense, a masonry mailbox enclosure and a street light fixture which shall conform as to size, style and location as determined by the Architectural Control Committee.
+Each Lot upon which a residential dwelling is constructed shall have planted thereon at the Owner's sole expense, a minimum of three (3) one and one-half (1/2) inch caliper deciduous trees or three (3) evergreen trees which stand four (4) feet tall and four shrubs and foundation planting of appropriate shrubs, flowers or ground-covers. The location of trees shall be approved by the Architectural Control Committee. An Owner may, if approved by the Committee in its sole discretion, satisfy said requirement with existing trees. Each Lot upon which a residential dwelling is constructed shall have constructed thereon at the Owner's sole expense, a masonry mailbox enclosure which shall conform as to size, style and location as determined by the Architectural Control Committee.
 
 ##### Section 5.03 Damage Liability
 
@@ -388,33 +388,13 @@ Each Owner shall be liable to the Association for all damage to the Common Area 
 
 The Covenants and Restrictions set forth in this Declaration shall be enforceable equitable servitudes and shall inure to the benefit of and bind all Owners. These servitudes may be enforced by any Owner or the City of Provo, Utah.
 
-##### Section 5.05 Fencing and Safety Fencing
+##### Section 5.05 Fencing
 
-Each Lot upon which a residential dwelling is constructed shall have erected thereon at the Owner's sole expense a fence, to be approved by the Architectural Control Committee, which shall restrict children from accessing swimming pools, open ponds and the Provo River, regardless of whether such swimming pools, ponds or the Provo River are located within the Development. This provision shall not apply to the Provo Bench Canal and Irrigation Company canal and the West Union Canal Company canal located within the Development. Owner's whose Lots contain easements for the canal companies listed above must comply with all common law and statutory easement requirements' of the State of Utah, including but not limited to emergency and cleaning access (possibly ten feet on each side of the easement) by the canal companies. All fencing, whether safety fencing or otherwise, shall be constructed of wrought iron, brick, or a combination thereof. No fence shall be located nearer to the front lot line than:
+All fencing shall be constructed of material approved by the Architectural Control Committee. No fence shall be located nearer to the front lot line than:
 
     (a) 45 feet for dwellings which are set back 45 feet or less from the back of curb; or
 
-    (b) 30 feet for dwellings which are set back 60 feet from the back of the curb. The City of Provo is hereby held harmless for any liability resulting from damage or injuries sustained by person's or property as a result of such drainage.
-
-##### Section 5.06 Stoves and Fireplaces
-
-All wood and/or coal burning stoves installed in a residential dwelling shall meet or exceed pollution control standards established by the United States Environmental Protection Agency.
-
-##### Section 5.07 Toilets
-
-All toilets installed in a residential dwelling shall be of the "low-flow" type.
-
-##### Section 5.08 Irrigation Systems
-
-All landscape irrigation systems installed on a Lot shall contain automatic time-control devices.
-
-##### Section 5.09 Wetlands
-
-No residential dwelling, garage, or other structure shall be constructed or otherwise situated upon an area within the Development which has been declared to be "Wetlands" by the United States Army Corps of Engineers. Each Owner shall be required to maintain and preserve in its natural state any portion of his Lot which has been so declared to be "Wetlands."
-
-##### Section 5.11 Compliance with Provisions of Geotechnical Study
-
-All residential dwellings, garages or other structures to be constructed in the Development shall be constructed in compliance with the recommendations set forth in the Geotechnical Study prepared by Earthtec Testing and Engineering, a copy of which is attached hereto as Exhibit "C" and incorporated therein by this reference.
+    (b) 30 feet for dwellings which are set back 60 feet from the back of the curb.
 
 ##### Section 5.12 Time Limit for Construction of Residential Dwelling
 
@@ -422,7 +402,7 @@ All residential dwellings shall be fully constructed within 18 months of the iss
 
 ##### Section 5.13 Removal of Dead Trees and Debris
 
-All dead trees and debris must be removed from a Lot, at the Owner's sole expense, prior to the issuance by the City of Provo, Utah, of a Certificate of Occupancy for a residential dwelling constructed on a Lot.
+All dead trees and debris must be removed from a Lot, at the Owner's sole expense.
 
 ##### Section 5.14 Maintenance of Lots
 
