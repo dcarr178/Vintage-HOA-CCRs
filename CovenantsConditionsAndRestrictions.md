@@ -430,10 +430,6 @@ All landscape irrigation systems installed on a Lot shall contain automatic time
 
 No residential dwelling, garage, or other structure shall be constructed or otherwise situated upon an area within the Development which has been declared to be "Wetlands" by the United States Army Corps of Engineers. Each Owner shall be required to maintain and preserve in its natural state any portion of his Lot which has been so declared to be "Wetlands."
 
-##### Section 5.10 Off-Street Parking
-
-Each Lot shall contain adequate parking space for two (2) standard size vehicles to be utilized by the guests and/or invitees of an Owner.
-
 ##### Section 5.11 Compliance with Provisions of Geotechnical Study
 
 All residential dwellings, garages or other structures to be constructed in the Development shall be constructed in compliance with the recommendations set forth in the Geotechnical Study prepared by Earthtec Testing and Engineering, a copy of which is attached hereto as Exhibit "C" and incorporated therein by this reference.
@@ -746,7 +742,7 @@ This Declaration as well as any amendment thereto and any valid action or direct
 
 ##### Section 14.05 Interpretation
 
-The provisions of this Declaration shall be liberally construed and interpreted to effectuate; its purpose of .creating a uniform.plan for the development and operation of a planned development. Failure to enforce any provision of this Declaration shall not constitute a waiver of the right to enforce that provision or any other provision of this Declaration.
+The provisions of this Declaration shall be liberally construed and interpreted to effectuate; its purpose of creating a uniform plan for the development and operation of a planned development. Failure to enforce any provision of this Declaration shall not constitute a waiver of the right to enforce that provision or any other provision of this Declaration.
 
 ##### Section 14.06 Limitation of Liability
 
