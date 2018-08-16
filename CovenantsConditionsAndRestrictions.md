@@ -500,7 +500,7 @@ Insurance premiums for any insurance coverage obtained by the Association shall 
 
 ##### Section 8.01 Damage to Private Streets
 
-All streets within the Property are private, not public streets, as defined under applicable Utah statutes and Provo City Ordinances. The Association waives any claim against Provo City Corporation for any and all damage to private streets within the Property.
+All streets within the Property are private, not public streets, as defined under applicable Utah statutes and Provo City Ordinances.
 
 ##### Section 8.02 Duty to Restore and Replace
 
@@ -708,10 +708,6 @@ The liability of any Owner for performance of any of the provisions of this Decl
 
 No Owner shall, either directly or indirectly, forbid the conveyance, encumbrance, renting, leasing, or occupancy of the Owner's Lot to any person on the basis of race, color, sex, religion, ancestry, or national origin.
 
-##### Section 14.08 Future Dedication of Common Area
-
-No portion or portions of the Common Area have been dedicated to the City of Provo, Utah, for roadway or sidewalk purposes. No portion or portions of the Common Area may be dedicated to said City of Provo, Utah, in the future unless and until all development standard requirements relating to road width, access, etc. are satisfied.
-
-##### Section 14.09 Number and Headings
+##### Section 14.08 Number and Headings
 
 As used in this Declaration, the singular shall include the plural, unless the context requires the contrary. The headings are not a part of this Declaration, and shall not affect the interpretation of any provision.
