@@ -450,17 +450,11 @@ No building, addition, wall, fence, alteration, or landscaping shall be begun, c
 
     (q) No building shall be located nearer than 30 feet to any rear lot line, except those Lots which are located along the Provo River in which case no building shall be located nearer than 100 feet from the high bank of the river.
 
-    (r) With respect to lots 36-47, major portions of these lots a within a floodplain area as shown on the Subdivision Map, therefore, no habitable floor elevation shall be placed below an elevation which is one (1) foot above the flood elevation shown on the Subdivision Map.
+    (r) The Committee may, in its absolute discretion, modify the side yard set-back requirements.
 
-    (s) The Committee may, in its absolute discretion, modify the side yard set-back requirements.
+    (s) All swimming pools or structures containing water shall be fenced in accordance with national standards for such pools or structures.
 
-    (t) All swimming pools or structures containing water shall be fenced in accordance with national standards for such pools or structures.
-
-    (u) The Committee may, in its absolute discretion, require that the increase in elevation from street to residential dwelling be at least 4 feet in order to provide consistent landscaping features.
-
-    (v) Any general contractor hired to construct a residential dwelling shall be approved by the Committee in writing.
-
-    (w) The Committee shall have the right, in its absolute discretion, to reroute any streams or waterways situated in the Development.
+    (t) The Committee may, in its absolute discretion, require that the increase in elevation from street to residential dwelling be at least 4 feet in order to provide consistent landscaping features.
 
 ##### Section 6.03 Architectural Control Committee
 
