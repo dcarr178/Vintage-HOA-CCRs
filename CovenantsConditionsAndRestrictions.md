@@ -322,8 +322,6 @@ Late charges may be levied by the Association against an Owner for the delinquen
 
 No late charge may be imposed more than once for the delinquency of the same payment. However, the imposition of a late charge on any delinquent payment shall not eliminate or supersede charges imposed on prior delinquent payments.
 
-No late charge may be imposed more than once for the delinquency of the same payment. However, the imposition of a late charge on any delinquent payment shall not eliminate or supersede charges imposed on prior delinquent payments.
-
 ##### Section 4.07 Enforcement of Assessments and Late Charges
 
 A delinquent regular or special assessment and any related late charges, reasonable costs of collection, and interest assessed in accordance with Section 4.08 of this Declaration, shall become a lien upon the Lot when a notice of delinquent assessment is duly recorded with the Utah County Recorder.
@@ -356,35 +354,27 @@ In exercising the right to occupy or use a Lot or the Common Area and its improv
 
     (d) Perform any act or keep anything on or in any Lot or Exclusive Use Common Area or in the Common Area that will increase the rate of insurance on the Common Area without the Board's prior written consent. Further, no Owner shall permit anything to be done or kept in his or her Lot, in any Exclusive use Common Area appurtenant to the Lot, or in the Common Area that would result in the cancellation of insurance on any Lot or Exclusive Use Common Area or on any part of the Common Area or that would violate any law.
 
-    (e) Store gasoline, kerosene, cleaning solvents, or other flammable liquids in the Common Area or on any Lot; provided, however, that reasonable amounts of these liquids may be placed in metal containers and stored in the storage spaces.
+    (e) Display any sign to the public view on or from any Lot or the Common Area without the prior written consent of the Board, except a sign (approved by the Board) advertising the property for sale, lease, or exchange.
 
-    (f) Conduct oil drilling, oil development operations, oil refining, quarrying, or mining operations of any kind, nor permit oil wells, tanks, tunnels, or mineral excavations or shafts upon the surface of any lot. No derrick or other structure designed for boring for water, oil, or natural gas shall be erected, maintained or permitted upon any lot.
+    (f) Raise, breed, or keep animals, livestock, or poultry of any kind on a Lot or in the Common Area, except dogs, cats, or other household pets (as defined by Provo City Ordinances), which may be kept on Lots, subject to the Rules and Regulations.
 
-    (g) Display any sign to the public view on or from any Lot or the Common Area without the prior written consent of the Board, except a sign (approved by the Board) advertising the property for sale, lease, or exchange.
+    (g) Engage in any noxious or offensive activity in any part of the Development.
 
-    (h) Raise, breed, or keep animals, livestock, or poultry of any kind on a Lot or in the Common Area, except dogs, cats, or other household pets (as defined by Provo City Ordinances), which may be kept on Lots, subject to the Rules and Regulations.
+    (h) Alter or modify the exterior of any improvements located on a Lot without first obtaining the written consent of the Architectural Control Committee.
 
-        (i) Engage in any noxious or offensive activity in any part of the Development.
+    (i) Alter, construct, or remove anything on or from the Common Area, except upon the written consent of the Board.
 
-    (j) Alter or modify the exterior of any improvements located on a Lot without first obtaining the written consent of the Architectural Control Committee.
+    (j) Park any automobile or other motor vehicle in the Common Area except in designated areas.
 
-    (k) Alter, construct, or remove anything on or from the Common Area, except upon the written consent of the Board.
+    (k) Park any campers, trailers, boats, equipment, recreational vehicles, motor homes, or other similar vehicles on a Lot for more than 24 consecutive hours other than in an enclosed garage or behind a residential structure constructed on a Lot.
 
-        (l) Park any automobile or other motor vehicle in the Common Area except in designated areas.
+    (l) Park any campers, trailers, boats, equipment, recreational vehicles, motor homes, or other similar vehicles in the Common Area.
 
-    (m) Cut any living tree on any Lot in excess of two inches in diameter without the prior written consent of the Architectural Control Committee.
+    (m) Allow trash, garbage, or other waste to be kept in other than sanitary containers. All rubbish, trash and garbage shall be regularly removed from the properties, and shall not be allowed to accumulate thereon. All clotheslines, refuse containers, woodpiles, storage areas and machinery and equipment shall be prohibited upon any lot unless obscured from view of adjoining lots and streets by a fence or appropriate screen.
 
-    (n) Park any campers, trailers, boats, equipment, recreational vehicles, motor homes, or other similar vehicles on a Lot for more than 24 consecutive hours other than in an enclosed garage or behind a residential structure constructed on a Lot.
+    (n) Allow any erosion from all slopes or terraces on any lot so as to prevent any erosion thereof upon adjacent streets or adjoining property.
 
-    (o) Park any campers, trailers, boats, equipment, recreational vehicles, motor homes, or other similar vehicles in the Common Area.
-
-    (p) Allow trash, garbage, or other waste to be kept in other than sanitary containers. All rubbish, trash and garbage shall be regularly removed from the properties, and shall not be allowed to accumulate thereon. Each owner shall acquire and utilize a trash compactor at the time of completion of each dwelling. All clotheslines, refuse containers, woodpiles, storage areas and machinery and equipment shall be prohibited upon any lot unless obscured from view of adjoining lots and streets by a fence or appropriate screen.
-
-    (q) Erect, construct, place or permit to remain on any of the dwellings or structures in the Development any television, radio, satellite dishes larger than 3 feet in diameter, shortwave or other electronic antenna or device of any type unless and until the same shall be approved in writing by the Architectural Committee of the Association. Satellite dishes smaller than 3 feet in diameter must be located on the back of the dwelling and not viewable from the street.
-
-    (r) Allow any erosion from all slopes or terraces on any lot so as to prevent any erosion thereof upon adjacent streets or adjoining property.
-
-    (s) Permit the use of sports and/or tennis courts after the hour of 10:00 o'clock p.m., permit obnoxious, offensive or loud noise thereon or permit dwelling, sport and/or tennis court lighting to interfere with the quiet enjoyment of other Owners.
+    (o) Permit the use of sports and/or tennis courts after the hour of 10:00 p.m., permit obnoxious, offensive or loud noise thereon or permit dwelling, sport and/or tennis court lighting to interfere with the quiet enjoyment of other Owners.
 
 ##### Section 5.02 Required Trees, Mailbox Enclosures and Street Light Fixtures
 
