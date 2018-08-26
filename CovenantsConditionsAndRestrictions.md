@@ -418,39 +418,53 @@ No building, addition, wall, fence, alteration, or landscaping shall be begun, c
 
     (c) There shall be no siding of any type used in constructing a dwelling.
 
-    (d) All roofing materials shall be constructed of wood or tiles made concrete, slate or copper.
+    (d) All roofing materials shall be constructed of wood or tiles made concrete, slate or copper; except as noted below:
 
-    (e) No asphalt roofing materials shall be allowed.
+        (1) Allowable materials for major roofs: Concrete tile, slate, cedar shingles, and pre-approved composite shingles that resemble cedar shake or concrete tile.
 
-    (f) All exterior surfaces of dwellings shall be constructed of clay brick, stone, wood or stucco.
+        (2) Allowable materials for minor roof elements: Same materials as major roofs, weathering copper, or pre-approved weathered copper-color aluminum. 
 
-    (g) If wood or stucco are used for exterior surfaces, then the combined total usage of wood or stucco shall not exceed thirty percent (30%) of the total exterior surface of a dwelling.
+    (e) All exterior surfaces of dwellings shall be constructed of clay brick, stone, wood or stucco; except as noted below:
+    
+        (1) Colors to be warm earth-toned colors such as tan, brown and gray.
 
-    (h) All proportions of each material used on dwelling exteriors shall be approved by the Committee. The Committee may, in its absolute discretion, modify these proportions to allow consistent architectural styles.
+        (2) Consistent wall materials and colors with continuity of use and placement.  A change in materials cannot occur at an outside comer with the exception of quoining.
 
-    (i) All dwellings shall conform in all respects to the style of architecture commonly known as English Tudor, Georgian, Colonial or French.
+        (3) Exterior walls of the entire building structure (including windows and doors) to be built with a minimum of seventy percent (70%) approved stone or brick with no exterior elevation comprised of less than fifty percent (50%) approved stone or brick.
 
-    (j) All dwellings shall contain a side-entry or angled (not parallel to the street) garage with the capacity to contain at least two automobiles.
+        (4) Allowable exterior major wall finish materials: clay, brick, and stone.
 
-    (k) No dwelling shall contain a carport or anything similar to it.
+        (5) Allowable exterior minor wall finish materials: pre-approved full-bed stone, pre-approved full-sized brick, stucco, cedar shake siding, fiber cement board lapped siding, and fiber cement board and batten siding.
 
-    (l) The ground floor area of any dwelling constructed on Lots containing 14,999 square feet or less, exclusive of garages and open porches, shall not be less than 2,600 square feet for a one-story dwelling, nor less than 1,800 square feet for a dwelling of more than one story; provided, however, that in any event, no two-story dwelling shall have less than 3,200 square feet of total living space exclusive of garage and open porches.
+        (6) Exterior wall finish materials not allowed: logs, concrete block, metal, vinyl, and wood siding.
 
-    (m) The ground floor area of any dwelling constructed on Lots containing 15,000 square feet or more, exclusive of garages and open porches, shall not be less than 3,200 square feet for a one-story dwelling, nor less than 2,300 square feet for a dwelling of more than one-story; provided, however, that in any event, no two-story dwelling shall have less than 3,900 square feet of total living space exclusive of garage and open porches.
+    (f) If wood or stucco are used for exterior surfaces, then the combined total usage of wood or stucco shall not exceed thirty percent (30%) of the total exterior surface of a dwelling.
 
-    (n) The Committee may, in its absolute discretion, place a limit on the size of a dwelling.
+    (g) All proportions of each material used on dwelling exteriors shall be approved by the Committee. The Committee may, in its absolute discretion, modify these proportions to allow consistent architectural styles.
 
-    (o) No dwelling shall be located nearer to the back of front curb line and the side street line than 30 feet.
+    (h) All dwellings shall conform in all respects to the style of architecture commonly known as English Tudor, Georgian, Colonial or French.
 
-    (p) No dwelling shall be located nearer the side lot line than 15 feet on lots with widths greater than 120 feet and 10 feet for lots with widths less than 120 feet.
+    (i) All dwellings shall contain a side-entry or angled garage (not parallel to the street) with the capacity to contain at least two automobiles.
 
-    (q) No building shall be located nearer than 30 feet to any rear lot line, except those Lots which are located along the Provo River in which case no building shall be located nearer than 100 feet from the high bank of the river.
+    (j) No dwelling shall contain a carport or anything similar to it.
 
-    (r) The Committee may, in its absolute discretion, modify the side yard set-back requirements.
+    (k) The ground floor area of any dwelling constructed on Lots containing 14,999 square feet or less, exclusive of garages and open porches, shall not be less than 2,600 square feet for a one-story dwelling, nor less than 1,800 square feet for a dwelling of more than one story; provided, however, that in any event, no two-story dwelling shall have less than 3,200 square feet of total living space exclusive of garage and open porches.
 
-    (s) All swimming pools or structures containing water shall be fenced in accordance with national standards for such pools or structures.
+    (l) The ground floor area of any dwelling constructed on Lots containing 15,000 square feet or more, exclusive of garages and open porches, shall not be less than 3,200 square feet for a one-story dwelling, nor less than 2,300 square feet for a dwelling of more than one-story; provided, however, that in any event, no two-story dwelling shall have less than 3,900 square feet of total living space exclusive of garage and open porches.
 
-    (t) The Committee may, in its absolute discretion, require that the increase in elevation from street to residential dwelling be at least 4 feet in order to provide consistent landscaping features.
+    (m) The Committee may, in its absolute discretion, place a limit on the size of a dwelling.
+
+    (n) No dwelling shall be located nearer to the back of front curb line and the side street line than 30 feet.
+
+    (o) No dwelling shall be located nearer the side lot line than 15 feet on lots with widths greater than 120 feet and 10 feet for lots with widths less than 120 feet.
+
+    (p) No building shall be located nearer than 30 feet to any rear lot line, except those Lots which are located along the Provo River in which case no building shall be located nearer than 100 feet from the high bank of the river.
+
+    (q) The Committee may, in its absolute discretion, modify the side yard set-back requirements.
+
+    (r) All swimming pools or structures containing water shall be fenced in accordance with national standards for such pools or structures.
+
+    (s) The Committee may, in its absolute discretion, require that the increase in elevation from street to residential dwelling be at least 4 feet in order to provide consistent landscaping features.
 
 ##### Section 6.03 Architectural Control Committee
 
