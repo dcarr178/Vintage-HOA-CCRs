@@ -138,11 +138,7 @@ The following provisions govern the use and enjoyment of the Common Area:
 
 ##### Section 2.03 Maintenance by Owners
 
-Each Owner shall maintain his or her Lot and the improvements located on it in a clean, sanitary, and attractive condition. This duty to maintain includes a responsibility to repair any damage to the improvements located on the Owner's Lot occasioned by the presence of wood-destroying pests or organisms, provided that a majority of the Owners do not vote to have the Association:
-
-    (a) Arrange for the necessary repairs; and
-
-    (b) Levy a special assessment to recover the resulting costs.
+Each Owner shall maintain his or her Lot and the improvements located on it in a clean, sanitary, and attractive condition. This duty to maintain includes a responsibility to repair any damage to the improvements located on the Owner's Lot occasioned by the presence of wood-destroying pests or organisms. If the Board of Directors deems that an Owner has failed to maintain his or her Lot or the improvements located on it in a satisfactory manner, notice will be provided and fees can be levied as specified in Section 3.05 of this declaration. If the Board of Directors deems that insufficient action has been taken to resolve the maintenance issue 30 days after the initial notice, the Board of Directors is authorized to arrange for the necessary repairs and invoice the Owner for any costs incurred to resolve the maintenance issue up to a limit of $5,000 per incident.,
 
 In addition, each owner shall maintain those portions of any heating and cooling equipment and all plumbing, electrical, and gas lines, apparatus, and other equipment that are located within or that exclusively serve his or her Lot. This maintenance shall be at the Owner's expense. However, the Owner shall not take any actions that would impair or otherwise alter the structural integrity or mechanical systems or lessen the support of any structural member, without the prior written approval of the Architectural Control Committee, as provided in Article VI of this Declaration.
 
