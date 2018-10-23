@@ -1,6 +1,6 @@
 # Covenants, Conditions, and Restrictions (CC&Rs)
 
-The original DECLARATION was made on the 30th day of January, 1995, by BTS INVESTMENTS, INC., a Utah Corporation ("Declarant"). This document, dated 7/1/2018, replaces that original document.
+The original DECLARATION was made on the 30th day of January, 1995, by BTS INVESTMENTS, INC., a Utah Corporation ("Declarant"). This document, dated October 23, 2018, replaces that original document.
 
 ### RECITALS
 
@@ -134,17 +134,17 @@ The following provisions govern the use and enjoyment of the Common Area:
 
     (d) An Owner who has sold his or her Lot to a contract purchaser or who has leased or rented the Lot shall be entitled to delegate his or her rights to use and enjoy the Common Area to any contract purchaser, tenant, or subtenant who resides in the Owner's Lot, subject to reasonable regulation by the Board. If the Owner makes such a delegation of rights, the Owner and the Owner's family, guests, employees, and invitees shall not be entitled to use and enjoy the Common Area for so long as the delegation remains effective.
 
-    (e) Each Owner shall be liable to the Association for any damage to the Common Area or to Association-owned property, to the extent that the damage is not covered by insurance, if the damage is sustained because of the negligence, wilful misconduct, unauthorized or improper installment or maintenance of any improvement by the Owner of the Owner's family guests, tenants, contract purchasers, tenants, or invitees. In the case of joint ownership of a Lot, the liability of the co-owners shall be joint and several, unless the co-owners and the Association have agreed in writing to an alternative allocation of liability.
+    (e) Each Owner shall be liable to the Association for any damage to the Common Area or to Association-owned property, to the extent that the damage is not covered by insurance, if the damage is sustained because of the negligence, willful misconduct, unauthorized or improper installment or maintenance of any improvement by the Owner of the Owner's family guests, tenants, contract purchasers, tenants, or invitees. In the case of joint ownership of a Lot, the liability of the co-owners shall be joint and several, unless the co-owners and the Association have agreed in writing to an alternative allocation of liability.
 
 ##### Section 2.03 Maintenance by Owners
 
-Each Owner shall maintain his or her Lot and the improvements located on it in a clean, sanitary, and attractive condition. This duty to maintain includes a responsibility to repair any damage to the improvements located on the Owner's Lot occasioned by the presence of wood-destroying pests or organisms. If the Board of Directors deems that an Owner has failed to maintain his or her Lot or the improvements located on it in a satisfactory manner, notice will be provided and fees can be levied as specified in Section 3.05 of this declaration. If the Board of Directors deems that insufficient action has been taken to resolve the maintenance issue 30 days after the initial notice, the Board of Directors is authorized to arrange for the necessary repairs and invoice the Owner for any costs incurred to resolve the maintenance issue up to a limit of $5,000 per incident.,
+Each Owner shall maintain his or her Lot and the improvements located on it in a clean, sanitary, and attractive condition. This duty to maintain includes a responsibility to repair any damage to the improvements located on the Owner's Lot occasioned by the presence of wood-destroying pests or organisms. If the Board of Directors deems that an Owner has failed to maintain his or her Lot or the improvements located on it in a satisfactory manner, notice will be provided and fees can be levied as specified in Section 3.05 of this declaration. If the Board of Directors deems that insufficient action has been taken to resolve the maintenance issue 30 days after the initial notice, the Board of Directors is authorized to arrange for the necessary repairs and invoice the Owner for any costs incurred to resolve the maintenance issue up to a limit of $5,000 per incident.
 
 In addition, each owner shall maintain those portions of any heating and cooling equipment and all plumbing, electrical, and gas lines, apparatus, and other equipment that are located within or that exclusively serve his or her Lot. This maintenance shall be at the Owner's expense. However, the Owner shall not take any actions that would impair or otherwise alter the structural integrity or mechanical systems or lessen the support of any structural member, without the prior written approval of the Architectural Control Committee, as provided in Article VI of this Declaration.
 
 ##### Section 2.04 Easements for Maintenance of Encroachments
 
-None of the rights and obligations of the Owners described in this Declaration or created by deed shall be altered in any way by encroachments due to settlement or shifting of structures or any other cause. There shall be valid easements for the maintenance of such encroachments so long as the encroachments exist. However, in no event shall a valid easement for encroachment be created in favor of an Owner or Owners if the encroachment occurred due to the wilful conduct of the Owner or Owners.
+None of the rights and obligations of the Owners described in this Declaration or created by deed shall be altered in any way by encroachments due to settlement or shifting of structures or any other cause. There shall be valid easements for the maintenance of such encroachments so long as the encroachments exist. However, in no event shall a valid easement for encroachment be created in favor of an Owner or Owners if the encroachment occurred due to the willful conduct of the Owner or Owners.
 
 ##### Section 2.05 Prohibition Against Severance of Elements of Lot
 
@@ -193,6 +193,8 @@ The Association shall have all the powers of a nonprofit corporation organized u
         (3) Damage to the Lots that the Association is obligated to maintain or repair.
 
         (4) Damage to the Lots that arises out of, or is integrally related to, damage to the Common Area or Lots that the Association is obligated to maintain or repair.
+
+        (5) In any action to enforce or defend these Amended and Restated Covenants, Conditions, and Restrictions, the Amended Bylaws, or the rules and regulations properly adopted, the prevailing party shall be entitled to its reasonable attorneys' fees and costs.
 
     The Association shall enforce payment of assessments in accordance with the provisions of Article IV of this Declaration.
 
@@ -248,7 +250,7 @@ In addition to the duties delegated to the Association or its agents and employe
 
     (e) The Association shall prepare an annual balance sheet and operating statement and distribute this information to the Owners within 60 days after the accounting date upon which the information is based.
 
-    (f) The Association shall provide any Owner with the following documents within 10 days of the mailing or delivery of a written request therefor:
+    (f) The Association shall provide any Owner with the following documents within 10 days of the mailing or delivery of a written request therefore:
 
         (1) A copy of the Governing Instruments.
 
@@ -320,11 +322,11 @@ No late charge may be imposed more than once for the delinquency of the same pay
 
 ##### Section 4.07 Enforcement of Assessments and Late Charges
 
-A delinquent regular or special assessment and any related late charges, reasonable costs of collection, and interest assessed in accordance with Section 4.08 of this Declaration, shall become a lien upon the Lot when a notice of delinquent assessment is duly recorded with the Utah County Recorder.
+A delinquent regular or special assessment and any related late charges, reasonable costs of collection, attorney fees, and interest assessed may be collected in any manner permitted by law and shall be a lien upon the Lot.
 
-Any such lien may be enforced in any manner permitted by law, including judicial foreclosure or nonjudicial foreclosure.
+Any such lien may be enforced in any manner permitted by law, including judicial foreclosure or non-judicial foreclosure.
 
-If the sums specified in the notice of delinquent assessment are paid before the completion of any judicial or nonjudicial foreclosure, the Association shall record a notice of satisfaction and release of the lien. Upon receipt of a written request by Owner, the Association shall also record a notice of rescission of any declaration of default and demand for sale.
+If the sums specified in the notice of delinquent assessment are paid before the completion of any judicial or non-judicial foreclosure, the Association shall record a notice of satisfaction and release of the lien. Upon receipt of a written request by Owner, the Association shall also record a notice of rescission of any declaration of default and demand for sale.
 
 ##### Section 4.8 Statement of Delinquent Assessment
 
@@ -378,7 +380,7 @@ Each Lot upon which a residential dwelling is constructed shall have planted the
 
 ##### Section 5.03 Damage Liability
 
-Each Owner shall be liable to the Association for all damage to the Common Area or other Association property that is sustained by reason of the negligence or wilful misconduct of that Owner or his or her family, guests, employees, tenants, and invitees to the extent that the damage is not covered by the casualty insurance obtained and maintained by the Association pursuant to Section 7.01 of this Declaration. Each Owner, by accepting his or her deed, agrees to provide insurance-to the extent required by Section 7.05 of this Declaration.
+Each Owner shall be liable to the Association for all damage to the Common Area or other Association property that is sustained by reason of the negligence or willful misconduct of that Owner or his or her family, guests, employees, tenants, and invitees to the extent that the damage is not covered by the casualty insurance obtained and maintained by the Association pursuant to Section 7.01 of this Declaration. Each Owner, by accepting his or her deed, agrees to provide insurance-to the extent required by Section 7.05 of this Declaration.
 
 ##### Section 5.04 Equitable Servitudes
 
@@ -492,7 +494,7 @@ The Association shall obtain and maintain a policy or policies insuring the Asso
 
 ##### Section 7.03 Other Association Insurance
 
-The Association shall purchase and maintain workers' compensation insurance to the extent necessary to comply with any applicable laws. The Association also shall purchase and maintain fidelity bond coverage which names the Association as an obligee, for any person or entity handling funds of the Association, whether or not such persons or entities are compensated for their services. This coverage shall be in an amount that is at least equal to the estimated maximum of funds, including reserve funds, in the custody of the Association (or the Manager) at any given time during the term of each bond. However, the aggregate amount of these bonds must not be less than 150 percent of each year's estimated annual operating expenses and reserves. The Association also may purchase and maintain a blanket policy of flood insurance, and demolition insurance in an amount that is sufficient to cover any demolition that occurs following the total or partial destruction of the Development and a decision not to rebuild.
+The Association shall purchase and maintain workers' compensation insurance to the extent necessary to comply with any applicable laws. The Association also shall purchase and maintain fidelity bond coverage which names the Association as an obligee, for any person or entity handling funds of the Association, whether or not such persons or entities are compensated for their services. This coverage shall be in an amount that is at least equal to the estimated maximum of funds, including reserve funds, in the custody of the Association (or the Manager) at any given time during the term of each bond. However, the aggregate amount of these bonds must not be less than 150 percent of each year's estimated annual operating expenses and reserves. The Association shall also purchase adequate officers and directors' indemnity insurance, which shall provide coverage for past and present directors. The Association also may purchase and maintain a blanket policy of flood insurance, and demolition insurance in an amount that is sufficient to cover any demolition that occurs following the total or partial destruction of the Development and a decision not to rebuild.
 
 ##### Section 7.04 Trustee for Policies
 
@@ -530,7 +532,7 @@ If reconstruction or repair work is to take place pursuant to this Article, the 
 
     (a) Prepare the necessary documents, including an executed and acknowledged certificate stating that damage has occurred, describing it, identifying the improvement suffering the damage, the name of any insurer against whom claim is made, and the name of any insurance trustee, stating (if applicable) that the consent described in Section 8.03 has been obtained, and reciting that the certificate is recorded pursuant to this paragraph. That declaration shall be recorded with the Recorder of Utah County within 90 days from the date of the damage or destruction.
 
-    (b) Obtain firm bids (including the obligation to obtain a performance bond) from two or more responsible contractors to rebuild the Common Area in accordance with its original plans and specifications and, as soon as possible thereafter, call a special meeting of the voting Owners to consider the bids. If the Board fails to do so within 60 days after the casualty occurs, any Owner may obtain the bids and call and conduct the special meeting in the manner required by this paragraph. At the meeting, Owners representing at least 67 percent of the total voting power may elect to reject all of the bids and thus not to rebuild, or Owners representing at least 51 percent of the total voting power may elect to reject all bids requiring amounts exceeding the available insurance proceeds by more than $500. Failure to reject all bids shall authorize the Board to accept the unrejected bid it considers most favorable. Failure to call the special meeting or to repair the casualty damage within 12 months from the date the damage occurred shall be deemed for all purposes to be a decision not to rebuild.
+    (b) Obtain firm bids (including the obligation to obtain a performance bond) from two or more responsible contractors to rebuild the Common Area in accordance with its original plans and specifications and, as soon as possible thereafter, call a special meeting of the voting Owners to consider the bids. If the Board fails to do so within 60 days after the casualty occurs, any Owner may obtain the bids and call and conduct the special meeting in the manner required by this paragraph. At the meeting, Owners representing at least 67 percent of the total voting power may elect to reject all of the bids and thus not to rebuild, or Owners representing at least 51 percent of the total voting power may elect to reject all bids requiring amounts exceeding the available insurance proceeds by more than $500. Failure to reject all bids shall authorize the Board to accept the un-rejected bid it considers most favorable. Failure to call the special meeting or to repair the casualty damage within 12 months from the date the damage occurred shall be deemed for all purposes to be a decision not to rebuild.
 
     (c) If a bid is accepted, the Board shall let the contract to the successful bidder and distribute the insurance proceeds to the contractor as required by the contract.
 
@@ -658,7 +660,7 @@ Institutional First Mortgagees, upon written request, shall have the right to
 
     (1) examine the books and records of the Association during normal business hours and
 
-    (2) require the submission olany.financial data furnished to the Owners by the Association.
+    (2) require the submission of any financial data furnished to the Owners by the Association.
 
 ### ARTICLE XI ANNEXATION OF ADDITIONAL PROPERTY
 

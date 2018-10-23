@@ -4,7 +4,7 @@
 
 ##### Section 1.1 Name and Location
 
-The name of the corporation is Vintage on the River Homeowners Association, Inc., hereinafter referred to as the &quot;Association.&quot; The meetings of Members and Directors may be held at such places in the State of Utah, as may be designated by the Board of Directors.
+The name of the corporation is Vintage on the River Homeowners Association, Inc., hereinafter referred to as the "Association". The meetings of Members and Directors may be held at such places in the State of Utah, as may be designated by the Board of Directors.
 
 ##### Section 1.2 Application of Bylaws
 
@@ -22,7 +22,7 @@ Special meetings of the Members may be called at any time by the President or by
 
 ##### Section 2.3 Notice of Meetings
 
-Written notice of each meeting of the Members shall be given by, or at the direction of the Secretary of the Association or person authorized to call the meeting, by emailing a copy of such notice at least fifteen (15) days before such meeting to each Member entitled to vote thereat, addressed to the Member's email address supplied by such Member to the Association for the purpose of notice. Such notice shall specify the place, day and hour of the meeting, and, in the case of a special meeting, the purpose of the meeting.
+Written notice of each meeting of the Members shall be given by, or at the direction of the Secretary of the Association or person authorized to call the meeting, by emailing a copy of such notice at least fifteen (15) days before such meeting to each Member entitled to vote thereat, addressed to the Member's email address supplied by such Member to the Association for the purpose of notice. Such notice shall specify the place, day and hour of the meeting, and, in the case of a special meeting, the purpose of the meeting. In the event an owner demands that written notice be provided to them, such shall be provided by USPS mail within the same time frames as described in this section 2.3.
 
 ##### Section 2.4 Quorum
 
@@ -138,7 +138,7 @@ It shall be the duty of the Board of Directors to:
 
     (g) Cause the Common Areas and other portions of the Property to be maintained, as provided in the Declaration;
 
-    (h) Permit First Mortgagees of Lots in the Property to pay taxes or other charges which are in default and which may or have become a charge against the Common Areas of the Association, and such First Mortgagees, upon making such payments, shall be owed immediate reimbursement therefor from the Association;
+    (h) Permit First Mortgagees of Lots in the Property to pay taxes or other charges which are in default and which may or have become a charge against the Common Areas of the Association, and such First Mortgagees, upon making such payments, shall be owed immediate reimbursement therefore from the Association;
 
     (i) Assess and collect all assessments referred to or authorized in the Declaration.
 
