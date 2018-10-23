@@ -19,3 +19,7 @@ The master branch holds the current governing documents as recorded with the Sta
 ### Other branches
 
 Additional branches should be created for every proposed line-item change to be voted on and then merged into the staging branch when/if approved by membership vote.
+
+### Document conversion
+
+Convert markdown (md) files to html at https://cloudconvert.com/md-to-html.
